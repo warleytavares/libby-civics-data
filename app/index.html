@@ -322,7 +322,7 @@ const IC = {
 const KEY = "libbycivics.v2";
 let S = {style:"mc", autoRead:false, name:"", state:"", xp:0, days:0, last:"", q:{}, done:{}, sound:true, played:0, passed:0, best:0, hist:[], onboarded:false};
 try { const x = JSON.parse(localStorage.getItem(KEY)||"null"); if (x && x.q) S = Object.assign(S, x); } catch(e){}
-function save(){ try { localStorage.setItem(KEY, JSON.stringify(S)); } catch(e){} }
+function save(){ try { localStorage.setItem(KEY, JSON.stringify(S)); } catch(e){} if (typeof cloudPush === "function") cloudPush(); }
 const dayStr = d => d.getFullYear() + "-" + String(d.getMonth()+1).padStart(2,"0") + "-" + String(d.getDate()).padStart(2,"0");
 function touchStreak(){
   const now = new Date(), t = dayStr(now); if (S.last === t) return;
@@ -492,11 +492,12 @@ function vMe(){
   $("view").innerHTML = '<div style="display:flex;gap:14px;align-items:center;margin-bottom:14px"><div class="m" style="width:84px;height:84px">' + MASCOT.replace('class="mascot"','class="mascot happy"') + '</div><div><h2 style="font-size:24px;font-weight:900">' + (S.name ? esc(S.name) : "Your profile") + '</h2><p style="color:var(--mute)">Level ' + level() + (S.state ? " · " + esc(S.state) : "") + '</p></div></div>' +
    '<div class="grid2"><div class="tile"><b>' + liveStreak() + '</b><span>Day streak</span></div><div class="tile"><b>' + S.xp + '</b><span>Total XP</span></div><div class="tile"><b>' + totalMastered() + '/128</b><span>Mastered</span></div><div class="tile"><b>' + S.passed + '/' + S.played + '</b><span>Tests passed</span></div></div>' +
    '<div class="card" style="margin-top:16px"><label class="l" for="mName" style="margin-top:0">First name (optional)</label><input type="text" id="mName" maxlength="40" value="' + esc(S.name) + '" autocomplete="given-name"><label class="l" for="mState">State or territory</label><select id="mState">' + opts + '</select><p style="color:var(--mute);font-size:13px;margin-top:8px">Four questions depend on where you live: your capital, governor, senators and representative. Saved only on this device.</p></div>' +
-   '<div class="card" style="margin-top:16px;padding:4px 16px"><div style="padding:12px 0;border-bottom:2px solid var(--line)"><div style="font-weight:800;margin-bottom:8px">Practice style in lessons</div><div class="seg"><button type="button" id="stMc" aria-pressed="' + (S.style !== "cards") + '">Multiple choice</button><button type="button" id="stCards" aria-pressed="' + (S.style === "cards") + '">Flip cards</button></div></div><div class="switch"><span>Read questions aloud in lessons</span><button class="tog" id="tRead" type="button" aria-pressed="' + !!S.autoRead + '" aria-label="Read questions aloud in lessons"></button></div><div class="switch"><span>Sound effects</span><button class="tog" id="tSound" type="button" aria-pressed="' + S.sound + '" aria-label="Sound effects"></button></div><div class="switch" style="border:0"><span>Dark theme</span><button class="tog" id="tTheme" type="button" aria-pressed="' + isDark() + '" aria-label="Dark theme"></button></div></div>' +
+   accountCard() + '<div class="card" style="margin-top:16px;padding:4px 16px"><div style="padding:12px 0;border-bottom:2px solid var(--line)"><div style="font-weight:800;margin-bottom:8px">Practice style in lessons</div><div class="seg"><button type="button" id="stMc" aria-pressed="' + (S.style !== "cards") + '">Multiple choice</button><button type="button" id="stCards" aria-pressed="' + (S.style === "cards") + '">Flip cards</button></div></div><div class="switch"><span>Read questions aloud in lessons</span><button class="tog" id="tRead" type="button" aria-pressed="' + !!S.autoRead + '" aria-label="Read questions aloud in lessons"></button></div><div class="switch"><span>Sound effects</span><button class="tog" id="tSound" type="button" aria-pressed="' + S.sound + '" aria-label="Sound effects"></button></div><div class="switch" style="border:0"><span>Dark theme</span><button class="tog" id="tTheme" type="button" aria-pressed="' + isDark() + '" aria-label="Dark theme"></button></div></div>' +
    '<p style="color:var(--mute);font-size:13px;margin-top:14px">Names of officials (President, governors, senators) updated ' + esc(offDate()) + '. The app checks for new names once a day.</p><button class="btn ghost" id="reset" type="button" style="margin-top:16px;color:var(--red)">Reset all progress</button><p id="resetMsg" style="color:var(--mute);font-size:13px;text-align:center;margin-top:8px"></p>';
   $("mState").value = S.state;
   $("mName").addEventListener("input", e => { S.name = e.target.value.trim(); save(); });
   $("mState").addEventListener("change", e => { S.state = e.target.value; save(); });
+  wireAccount();
   $("stMc").onclick = () => { S.style = "mc"; save(); $("stMc").setAttribute("aria-pressed", true); $("stCards").setAttribute("aria-pressed", false); };
   $("stCards").onclick = () => { S.style = "cards"; save(); $("stMc").setAttribute("aria-pressed", false); $("stCards").setAttribute("aria-pressed", true); };
   $("tRead").onclick = e => { S.autoRead = !S.autoRead; save(); e.currentTarget.setAttribute("aria-pressed", S.autoRead); sfx.tap(); };
@@ -847,6 +848,101 @@ document.addEventListener("keydown", e => {
   else if (R.phase === "sheet" && R.kind !== "test" && e.key === "Enter"){ e.preventDefault(); next(); }
 });
 
+/* ---------- cloud account (Supabase): optional, keeps progress across devices ---------- */
+const SB = {"url": "https://mixompfmzbdeeewbohij.supabase.co", "anon": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im1peG9tcGZtemJkZWVld2JvaGlqIiwicm9sZSI6ImFub24iLCJpYXQiOjE3OTM3OTI4NzcsImV4cCI6MjEwOTM2ODg3N30.IHfNZ6i__7sZ1K73SwW17_0snKOLjyxCmUDDSenbWcc"};
+const SBK = "libbycivics.session";
+let SESS = null; try { SESS = JSON.parse(localStorage.getItem(SBK) || "null"); } catch(e){}
+let cloudMsg = "", pushT = null;
+async function sbFetch(path, opts){
+  opts = opts || {};
+  const h = Object.assign({apikey: SB.anon, "Content-Type": "application/json"}, opts.headers || {});
+  if (!h.Authorization) h.Authorization = "Bearer " + (SESS && SESS.access_token ? SESS.access_token : SB.anon);
+  return fetch(SB.url + path, Object.assign({}, opts, {headers: h}));
+}
+function setSess(j){
+  SESS = {access_token: j.access_token, refresh_token: j.refresh_token, expires_at: Date.now() + ((j.expires_in || 3600) * 1000) - 60000, user: {id: j.user.id, email: j.user.email}};
+  try { localStorage.setItem(SBK, JSON.stringify(SESS)); } catch(e){}
+}
+async function ensureSess(){
+  if (!SB || !SESS) return false;
+  if (Date.now() < SESS.expires_at) return true;
+  try {
+    const r = await sbFetch("/auth/v1/token?grant_type=refresh_token", {method: "POST", headers: {Authorization: "Bearer " + SB.anon}, body: JSON.stringify({refresh_token: SESS.refresh_token})});
+    if (!r.ok) throw new Error("expired");
+    setSess(await r.json()); return true;
+  } catch(e){ return false; }
+}
+async function authDo(kind, email, pw){
+  const path = kind === "up" ? "/auth/v1/signup" : "/auth/v1/token?grant_type=password";
+  let r;
+  try { r = await sbFetch(path, {method: "POST", headers: {Authorization: "Bearer " + SB.anon}, body: JSON.stringify({email, password: pw})}); }
+  catch(e){ throw new Error("Could not reach the server. The account works in the installed app and in the web version."); }
+  const j = await r.json().catch(() => ({}));
+  if (!r.ok) throw new Error(j.msg || j.error_description || j.message || j.error || "Could not sign in.");
+  if (!j.access_token) throw new Error("Check your e-mail to confirm the account, then sign in.");
+  setSess(j); await cloudPull();
+}
+/* merge: never lose progress made on either side */
+function mergeProgress(row){
+  const d = row.data || {}, cq = d.q || {};
+  Object.keys(cq).forEach(n => {
+    const a = S.q[n], b = cq[n];
+    if (!a){ S.q[n] = b; return; }
+    const keepB = (b.c + b.w) > (a.c + a.w);
+    S.q[n] = {c: Math.max(a.c, b.c), w: Math.max(a.w, b.w), last: keepB ? b.last : a.last};
+  });
+  S.xp = Math.max(S.xp, row.xp || 0); S.played = Math.max(S.played, row.played || 0); S.passed = Math.max(S.passed, row.passed || 0);
+  if ((row.last_day || "") > (S.last || "")){ S.last = row.last_day; S.days = row.streak || S.days; }
+  else if ((row.last_day || "") === (S.last || "")) S.days = Math.max(S.days, row.streak || 0);
+  if (!S.name && row.name) S.name = row.name;
+  if (!S.state && row.state) S.state = row.state;
+  const seen = new Set(S.hist.map(h => h.d + h.m + h.c + h.a));
+  (d.hist || []).forEach(h => { if (!seen.has(h.d + h.m + h.c + h.a)) S.hist.push(h); });
+  S.hist = S.hist.slice(-20);
+}
+async function cloudPull(){
+  if (!(await ensureSess())) return;
+  try {
+    const r = await sbFetch("/rest/v1/libby_progress?select=*&user_id=eq." + SESS.user.id);
+    if (r.ok){ const rows = await r.json(); if (rows[0]) mergeProgress(rows[0]); }
+    try { localStorage.setItem(KEY, JSON.stringify(S)); } catch(e){}
+    await doPush();
+    cloudMsg = "Synced " + new Date().toLocaleTimeString(); topbar(); if (TAB === "me") vMe();
+  } catch(e){ cloudMsg = "Could not sync. Your progress is safe on this device."; }
+}
+function cloudPush(){ if (!SB || !SESS) return; clearTimeout(pushT); pushT = setTimeout(doPush, 2500); }
+async function doPush(){
+  if (!(await ensureSess())) { cloudMsg = "Signed out. Sign in again to keep syncing."; return; }
+  const row = {user_id: SESS.user.id, name: S.name || null, state: S.state || null, xp: S.xp, streak: S.days, last_day: S.last || null, played: S.played, passed: S.passed, data: {q: S.q, hist: S.hist, style: S.style, autoRead: S.autoRead, sound: S.sound}};
+  try {
+    const r = await sbFetch("/rest/v1/libby_progress?on_conflict=user_id", {method: "POST", headers: {Prefer: "resolution=merge-duplicates,return=minimal"}, body: JSON.stringify(row)});
+    cloudMsg = r.ok ? "Saved to your account at " + new Date().toLocaleTimeString() : "Could not save (" + r.status + ")";
+  } catch(e){ cloudMsg = "No connection. Your progress is safe on this device."; }
+  const el = $("cloudMsg"); if (el) el.textContent = cloudMsg;
+}
+function accountCard(){
+  if (!SB) return "";
+  if (SESS) return '<div class="card" style="margin-top:16px"><b style="font-size:17px;font-weight:900">Your account</b><p style="color:var(--mute);margin-top:4px;overflow-wrap:anywhere">Signed in as ' + esc(SESS.user.email) + '. Your progress follows you to any device.</p><p id="cloudMsg" style="font-size:13px;color:var(--mute);margin-top:6px">' + esc(cloudMsg) + '</p><div class="row" style="margin-top:12px"><button class="btn blue" id="syncNow" type="button">Sync now</button><button class="btn ghost" id="signOut" type="button">Sign out</button></div></div>';
+  return '<div class="card" style="margin-top:16px"><b style="font-size:17px;font-weight:900">Save your progress (optional)</b><p style="color:var(--mute);margin-top:4px">Create a free account to keep your XP, streak and answers on all your devices. You can keep playing without one.</p><label class="l" for="aMail">E-mail</label><input type="text" id="aMail" inputmode="email" autocomplete="email" placeholder="you@example.com"><label class="l" for="aPass">Password (6+ characters)</label><input type="password" id="aPass" autocomplete="current-password" placeholder="Password"><p id="cloudMsg" role="alert" style="font-size:14px;color:var(--red);margin-top:8px"></p><div class="row" style="margin-top:8px"><button class="btn" id="aUp" type="button">Create account</button><button class="btn ghost" id="aIn" type="button">Sign in</button></div></div>';
+}
+function wireAccount(){
+  if (!SB) return;
+  const msg = t => { const el = $("cloudMsg"); if (el) el.textContent = t; };
+  if (SESS){
+    $("syncNow").onclick = async () => { msg("Syncing..."); await cloudPull(); msg(cloudMsg); };
+    $("signOut").onclick = () => { SESS = null; try { localStorage.removeItem(SBK); } catch(e){} cloudMsg = ""; vMe(); };
+    return;
+  }
+  const go = kind => async () => {
+    const em = $("aMail").value.trim(), pw = $("aPass").value;
+    if (!/^\S+@\S+\.\S+$/.test(em)) return msg("Type a valid e-mail.");
+    if (pw.length < 6) return msg("The password needs at least 6 characters.");
+    msg("Please wait...");
+    try { await authDo(kind, em, pw); sfx.good(); vMe(); } catch(e){ msg(e.message); }
+  };
+  $("aUp").onclick = go("up"); $("aIn").onclick = go("in");
+}
+
 /* ---------- onboarding ---------- */
 function onboarding(){
   const opts = ["<option value=''>Select where you live</option>"].concat(Object.keys(CAPITALS).map(n => "<option>" + n + "</option>"), ["<option>" + DC + "</option>"], Object.keys(TERRITORIES).map(n => "<option>" + n + "</option>")).join("");
@@ -858,6 +954,7 @@ function onboarding(){
 
 nav(); render(); if (!S.onboarded) onboarding();
 refreshOfficials();
+if (SB && SESS) cloudPull();
 document.addEventListener("visibilitychange", () => { if (document.visibilityState === "visible") refreshOfficials(); });
 setInterval(refreshOfficials, 3600e3);
 </script>
