@@ -3661,7 +3661,7 @@ const shapeOf = a => /^\d+$/.test(a) ? "num" : /^[A-Z][A-Za-z.’'\-]*( [A-Z][A-
 const qTok = s => new Set(String(s).toLowerCase().replace(/[^a-z0-9 ]+/g, " ").split(/\s+/).filter(w => w.length > 3));
 const jacc = (a, b) => { let i = 0; a.forEach(x => b.has(x) && i++); return i / (a.size + b.size - i || 1); };
 const QINFO = QS.map(q => ({q, tk: qTok(q.q), ans: q.a.map(cleanAns).filter(a => a && a.length <= 62)}));
-function pack(correct, wrong){ const o = shuffle([{t: correct, ok: true}].concat(wrong.map(t => ({t, ok: false})))); return {opts: o}; }
+function pack(correct, wrong){ const cleanCorrect = noParen(String(correct)); const o = shuffle([{t: cleanCorrect, ok: true}].concat(wrong.map(t => ({t, ok: false})))); return {opts: o}; }
 const uniq = a => [...new Set(a)];
 
 /* ---------- curated wrong options: easy while Libby is a baby, trickier as she grows ---------- */
