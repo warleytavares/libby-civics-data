@@ -3661,13 +3661,19 @@ const shapeOf = a => /^\d+$/.test(a) ? "num" : /^[A-Z][A-Za-z.’'\-]*( [A-Z][A-
 const qTok = s => new Set(String(s).toLowerCase().replace(/[^a-z0-9 ]+/g, " ").split(/\s+/).filter(w => w.length > 3));
 const jacc = (a, b) => { let i = 0; a.forEach(x => b.has(x) && i++); return i / (a.size + b.size - i || 1); };
 const QINFO = QS.map(q => ({q, tk: qTok(q.q), ans: q.a.map(cleanAns).filter(a => a && a.length <= 62)}));
-function pack(correct, wrong){ const cleanCorrect = noParen(String(correct)); const o = shuffle([{t: cleanCorrect, ok: true}].concat(wrong.map(t => ({t, ok: false})))); return {opts: o}; }
+function pack(correct, wrong){ const cleanCorrect = normalizeLabel(String(correct)); const o = shuffle([{t: cleanCorrect, ok: true}].concat(wrong.map(t => ({t, ok: false})))); return {opts: o}; }
 const uniq = a => [...new Set(a)];
 
 /* ---------- curated wrong options: easy while Libby is a baby, trickier as she grows ---------- */
 let HARD = false;   /* Challenge Mode always uses the trickiest wrong options */
 const distTier = () => { if (HARD || (R && R.hard)) return "t"; const i = stageIdx(); return i <= 1 ? "b" : i === 2 ? "k" : "t"; };
 const noParen = s => String(s).replace(/\s*\([^)]*\)\s*$/, "").trim();
+const normalizeLabel = s => {
+  let str = noParen(String(s));
+  const wordMap = {'Twenty-seven': '27', 'Twenty-six': '26', 'Twenty-five': '25', 'Fifty-two': '52', 'Fifty': '50', 'One hundred': '100', 'Four hundred thirty-five': '435', 'Five': '5', 'Three': '3', 'Two': '2', 'One': '1', 'Four': '4', 'Six': '6', 'Seven': '7', 'Eight': '8', 'Nine': '9', 'Ten': '10', 'Thirteen': '13'};
+  for (const [word, num] of Object.entries(wordMap)) if (str === word || str.startsWith(word + ' ')) return str.replace(word, num);
+  return str;
+};
 function curated(q, correct, strip, extra){
   const d = DIST[q.n]; if (!d) return null;
   const mine = new Set(q.a.map(a => cleanAns(a).toLowerCase()).concat([String(correct).toLowerCase()], (extra || []).map(a => String(a).toLowerCase())));
