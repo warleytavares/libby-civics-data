@@ -1,0 +1,2306 @@
+{
+  "1": {
+    "b": [
+      "Monarchy",
+      "Dictatorship",
+      "Empire"
+    ],
+    "k": [
+      "Direct democracy",
+      "Confederation",
+      "Socialist republic"
+    ],
+    "t": [
+      "Constitutional monarchy",
+      "Parliamentary democracy",
+      "Representative monarchy"
+    ],
+    "pt": "Os EUA são uma república representativa: o povo elege representantes que governam seguindo a Constituição — não é uma monarquia nem uma democracia direta, em que o povo votaria tudo."
+  },
+  "2": {
+    "b": [
+      "The President",
+      "Congress",
+      "The Supreme Court"
+    ],
+    "k": [
+      "The Declaration of Independence",
+      "The Articles of Confederation",
+      "The Federalist Papers"
+    ],
+    "t": [
+      "The Bill of Rights",
+      "The U.S. Code",
+      "The Amendments"
+    ],
+    "pt": "A Constituição é a lei suprema: nenhuma outra lei ou documento está acima dela — nem a Declaração, que anunciou a independência, nem a Bill of Rights, que são emendas dentro dela."
+  },
+  "3": {
+    "b": [
+      "Ends slavery in the United States",
+      "Names the first President",
+      "Writes the Pledge of Allegiance"
+    ],
+    "k": [
+      "Declares America free from Britain",
+      "Creates the state governments",
+      "Chooses the capital of the United States"
+    ],
+    "t": [
+      "Gives the President the power to make laws",
+      "Gives Congress the power to interpret laws",
+      "Protects only the rights of citizens"
+    ],
+    "pt": "A Constituição cria e organiza o governo — forma o governo, define seus poderes e protege os direitos do povo; declarar a independência foi papel da Declaração, não dela, e fazer leis é papel do Congresso, não do presidente."
+  },
+  "4": {
+    "b": [
+      "The King rules the people",
+      "Only the President governs",
+      "The states govern the people"
+    ],
+    "k": [
+      "The government gives rights to the people",
+      "The people must obey the King",
+      "The Constitution belongs to Congress"
+    ],
+    "t": [
+      "Power is given to the people by the government",
+      "The states created the people’s government, not the people",
+      "Only property owners take part in self-government"
+    ],
+    "pt": "“We the People” significa que o poder vem do povo: o governo só governa com o consentimento de quem é governado — o poder não é dado pelo governo ao povo, é o contrário."
+  },
+  "5": {
+    "b": [
+      "By a presidential order",
+      "By the Supreme Court changing the words",
+      "By declaring a new independence"
+    ],
+    "k": [
+      "By a vote of the states alone, without Congress",
+      "By Congress alone, without the states",
+      "By rewriting the Constitution every 10 years"
+    ],
+    "t": [
+      "By a simple majority vote in Congress",
+      "By an executive order from the President",
+      "By a national referendum"
+    ],
+    "pt": "A Constituição só muda por emendas — aprovadas por 2/3 do Congresso e 3/4 dos estados; nem o presidente por decreto, nem maioria simples, nem referendo mudam a Constituição."
+  },
+  "6": {
+    "b": [
+      "The rights of the King",
+      "The power of the President",
+      "The states’ right to leave the Union"
+    ],
+    "k": [
+      "The rights of the government",
+      "The powers of Congress",
+      "The rights of other countries"
+    ],
+    "t": [
+      "Only the rights of U.S. citizens",
+      "Only the right to vote",
+      "Only the right to own property"
+    ],
+    "pt": "A Bill of Rights protege os direitos básicos de quem vive nos EUA — não só dos cidadãos; por isso “só os cidadãos” é a pegadinha, e ela protege muitos direitos, não um só."
+  },
+  "7": {
+    "b": [
+      "5",
+      "100",
+      "50"
+    ],
+    "k": [
+      "13",
+      "9",
+      "435"
+    ],
+    "t": [
+      "10",
+      "26",
+      "28"
+    ],
+    "pt": "São 27 emendas: 10 são a Bill of Rights, e depois vieram mais 17 — por isso 10 é a pegadinha clássica, e 26 e 28 são os números vizinhos."
+  },
+  "8": {
+    "b": [
+      "It created the Supreme Court",
+      "It ended the Civil War",
+      "It made George Washington the first President"
+    ],
+    "k": [
+      "It wrote the Constitution",
+      "It created the three branches of government",
+      "It gave women the right to vote"
+    ],
+    "t": [
+      "It says the colonies must obey the King",
+      "It lists the powers of the federal government",
+      "It says only landowners have rights"
+    ],
+    "pt": "A Declaração é importante porque anunciou que a América era livre do controle britânico e que todas as pessoas nascem iguais, com direitos inerentes — ela não criou o governo, isso foi a Constituição."
+  },
+  "9": {
+    "b": [
+      "The Pledge of Allegiance",
+      "The National Anthem",
+      "The Emancipation Proclamation"
+    ],
+    "k": [
+      "The U.S. Constitution",
+      "The Articles of Confederation",
+      "The Federalist Papers"
+    ],
+    "t": [
+      "The Bill of Rights",
+      "The Virginia Declaration of Rights",
+      "The Mayflower Compact"
+    ],
+    "pt": "Foi a Declaração de Independência que disse que as colônias eram livres da Grã-Bretanha; a Constituição veio depois, em 1787, para organizar o governo."
+  },
+  "10": {
+    "b": [
+      "Monarchy and Dictatorship",
+      "Taxes and Trade",
+      "War and Peace"
+    ],
+    "k": [
+      "Checks and balances and Separation of powers",
+      "Democracy and Republic",
+      "Freedom of speech and Freedom of religion"
+    ],
+    "t": [
+      "Equality and Checks and balances",
+      "Liberty and Free market economy",
+      "Self-government and Democracy"
+    ],
+    "pt": "As ideias são igualdade, liberdade, contrato social, direitos naturais, governo limitado e autogoverno — “checks and balances” e “separation of powers” são da pergunta 15, não desta; um par só vale se as duas ideias estiverem na lista."
+  },
+  "11": {
+    "b": [
+      "The Pledge of Allegiance",
+      "The Star-Spangled Banner",
+      "The Emancipation Proclamation"
+    ],
+    "k": [
+      "The U.S. Constitution",
+      "The Articles of Confederation",
+      "The Federalist Papers"
+    ],
+    "t": [
+      "The Bill of Rights",
+      "The Virginia Declaration of Rights",
+      "The Preamble to the Constitution"
+    ],
+    "pt": "“Life, Liberty, and the pursuit of Happiness” está na Declaração de Independência — não na Constituição, apesar de a frase parecer do preâmbulo (“We the People”)."
+  },
+  "12": {
+    "b": [
+      "Monarchy",
+      "Dictatorship",
+      "Theocracy"
+    ],
+    "k": [
+      "Socialism",
+      "Communism",
+      "Mixed economy"
+    ],
+    "t": [
+      "Democracy",
+      "Social democracy",
+      "Command economy"
+    ],
+    "pt": "O sistema econômico é o capitalismo / livre mercado; “democracy” é a pegadinha clássica — democracia é o sistema político, não o econômico."
+  },
+  "13": {
+    "b": [
+      "The King is above the law",
+      "Only citizens must follow the law",
+      "The President can ignore the law"
+    ],
+    "k": [
+      "The law applies only in wartime",
+      "Only the courts must follow the law",
+      "The states can ignore federal law"
+    ],
+    "t": [
+      "Leaders must follow the law only when they agree with it",
+      "The government is above the law in emergencies",
+      "Everyone must follow the law except the President"
+    ],
+    "pt": "Rule of law significa que ninguém está acima da lei — nem o presidente, nem o governo, nem em emergências; a lei vale para todos, sempre."
+  },
+  "14": {
+    "b": [
+      "The Pledge of Allegiance",
+      "The Star-Spangled Banner",
+      "The American Flag Code"
+    ],
+    "k": [
+      "The Bill of Rights",
+      "The Gettysburg Address",
+      "The U.S. Constitution itself"
+    ],
+    "t": [
+      "The Monroe Doctrine",
+      "The Louisiana Purchase treaty",
+      "The 14th Amendment"
+    ],
+    "pt": "Os documentos que influenciaram a Constituição são os da lista oficial (Declaração, Articles, Federalist Papers etc.) — a Bill of Rights e a 14ª Emenda vieram depois, então não influenciaram a redação original."
+  },
+  "15": {
+    "b": [
+      "So the President can rule alone",
+      "So the states have no power",
+      "So the King can return"
+    ],
+    "k": [
+      "So the government can act faster",
+      "So each branch can ignore the others",
+      "So the Supreme Court can make laws"
+    ],
+    "t": [
+      "So the branches can compete for power",
+      "So Congress can control the other branches",
+      "So the President can veto the Constitution"
+    ],
+    "pt": "Os três poderes existem para que nenhum fique poderoso demais — checks and balances e separação de poderes; não é para o governo agir mais rápido, e sim para limitar o poder."
+  },
+  "16": {
+    "b": [
+      "Army, navy, and air force",
+      "King, queen, and prince",
+      "States, cities, and towns"
+    ],
+    "k": [
+      "Senate, House, and President",
+      "Congress, Senate, and courts",
+      "President, Cabinet, and Supreme Court"
+    ],
+    "t": [
+      "Legislative, executive, and military",
+      "Congress, president, and the Senate",
+      "Legislative, judicial, and the states"
+    ],
+    "pt": "Os três poderes são Legislativo, Executivo e Judiciário — Senado e Câmara fazem parte do Legislativo, e o Gabinete faz parte do Executivo, então nenhum deles conta como um poder separado."
+  },
+  "17": {
+    "b": [
+      "The city council",
+      "The United Nations",
+      "The state police"
+    ],
+    "k": [
+      "Congress",
+      "The Supreme Court",
+      "The House of Representatives"
+    ],
+    "t": [
+      "Legislative branch",
+      "Judicial branch",
+      "The federal courts"
+    ],
+    "pt": "O presidente chefia o Poder Executivo; o Legislativo (Congresso) faz as leis e o Judiciário (tribunais) as interpreta."
+  },
+  "18": {
+    "b": [
+      "The mayor",
+      "The governor",
+      "The police"
+    ],
+    "k": [
+      "The Cabinet",
+      "The Vice President",
+      "The federal courts"
+    ],
+    "t": [
+      "The President",
+      "The Supreme Court",
+      "The Senate alone"
+    ],
+    "pt": "Quem escreve (faz) as leis é o Congresso, o Poder Legislativo — o presidente só sanciona ou veta, a Suprema Corte só interpreta, e o Senado sozinho não aprova lei nenhuma."
+  },
+  "19": {
+    "b": [
+      "The army and the navy",
+      "The King and the Queen",
+      "The states and the cities"
+    ],
+    "k": [
+      "Democrats and Republicans",
+      "President and Vice President",
+      "The House and Senate of each state"
+    ],
+    "t": [
+      "Senate and Supreme Court",
+      "House and Cabinet",
+      "Senate and the Presidency"
+    ],
+    "pt": "O Congresso tem duas partes: o Senado e a Câmara dos Representantes — partidos não são partes do Congresso, e a Suprema Corte e o Gabinete pertencem a outros poderes."
+  },
+  "20": {
+    "b": [
+      "Runs the state schools",
+      "Issues driver's licenses",
+      "Collects state taxes"
+    ],
+    "k": [
+      "Interprets laws",
+      "Enforces laws",
+      "Commands the military"
+    ],
+    "t": [
+      "Vetoes bills",
+      "Signs bills into law",
+      "Appoints federal judges"
+    ],
+    "pt": "O Congresso escreve leis, declara guerra e faz o orçamento federal — vetar, sancionar e nomear juízes são poderes do presidente, e interpretar leis é do Judiciário."
+  },
+  "21": {
+    "b": [
+      "Ten (10)",
+      "Thirteen (13)",
+      "1,000 (1,000)"
+    ],
+    "k": [
+      "200 (200)",
+      "Fifty-two (52)",
+      "535 (535)"
+    ],
+    "t": [
+      "Fifty (50)",
+      "Four hundred thirty-five (435)",
+      "One hundred two (102)"
+    ],
+    "pt": "São 100 senadores, 2 por estado × 50 estados — 50 é o número de estados, 435 é o da Câmara, e 535 é o total do Congresso (100 + 435)."
+  },
+  "22": {
+    "b": [
+      "One (1) year",
+      "One hundred (100) years",
+      "For life"
+    ],
+    "k": [
+      "Ten (10) years",
+      "Five (5) years",
+      "Three (3) years"
+    ],
+    "t": [
+      "Four (4) years",
+      "Two (2) years",
+      "Eight (8) years"
+    ],
+    "pt": "O mandato de senador é de 6 anos — 2 é o da Câmara, 4 é o do presidente, e 8 é o total de dois mandatos presidenciais."
+  },
+  "23": {
+    "b": [
+      "Ted Cruz (Texas)",
+      "Bernie Sanders (Vermont)",
+      "Elizabeth Warren (Massachusetts)"
+    ],
+    "k": [
+      "Chuck Schumer (New York)",
+      "Mitch McConnell (Kentucky)",
+      "Amy Klobuchar (Minnesota)"
+    ],
+    "t": [
+      "Adam Schiff (California)",
+      "Ruben Gallego (Arizona)",
+      "Lisa Murkowski (Alaska)"
+    ],
+    "pt": "Cada estado tem 2 senadores — decore os do seu estado e confira em uscis.gov/citizenship/testupdates antes da entrevista; os nomes acima são senadores de outros estados."
+  },
+  "24": {
+    "b": [
+      "Ten (10)",
+      "Twenty-seven (27)",
+      "1,000 (1,000)"
+    ],
+    "k": [
+      "Fifty (50)",
+      "300 (300)",
+      "400 (400)"
+    ],
+    "t": [
+      "One hundred (100)",
+      "535 (535)",
+      "538 (538)"
+    ],
+    "pt": "A Câmara tem 435 membros com voto — 100 é o Senado, 535 é Senado + Câmara juntos, e 538 é o total do Colégio Eleitoral."
+  },
+  "25": {
+    "b": [
+      "For life",
+      "One hundred (100) years",
+      "Five (5) years"
+    ],
+    "k": [
+      "Eight (8) years",
+      "Three (3) years",
+      "Ten (10) years"
+    ],
+    "t": [
+      "Six (6) years",
+      "Four (4) years",
+      "One (1) year"
+    ],
+    "pt": "O mandato de deputado é de 2 anos — 6 é o de senador e 4 é o de presidente; é por isso que a Câmara acompanha mais de perto a opinião pública."
+  },
+  "26": {
+    "b": [
+      "Because they work less",
+      "Because they are not elected",
+      "Because they serve for life"
+    ],
+    "k": [
+      "Because the House has more members",
+      "Because representatives are younger",
+      "Because the Constitution was changed in 1900"
+    ],
+    "t": [
+      "To follow the President's opinion",
+      "To match the senators' terms",
+      "To save money on elections"
+    ],
+    "pt": "O mandato curto (2 anos) faz os deputados responderem rápido à opinião pública — não é por trabalharem menos nem por a Câmara ter mais membros."
+  },
+  "27": {
+    "b": [
+      "One hundred (100)",
+      "Four hundred thirty-five (435)",
+      "Thirteen (13)"
+    ],
+    "k": [
+      "Ten (10)",
+      "Fifty (50)",
+      "Four (4)"
+    ],
+    "t": [
+      "One (1)",
+      "Three (3)",
+      "As many as the state's population allows (As many as the state's population allows)"
+    ],
+    "pt": "Cada estado tem exatamente 2 senadores, grande ou pequeno — o número por população vale para a Câmara, não para o Senado."
+  },
+  "28": {
+    "b": [
+      "Because there are 50 states",
+      "Because the President chose two",
+      "Because of the flag's stripes"
+    ],
+    "k": [
+      "Because there are 100 senators",
+      "Because each state has two governors",
+      "Because of the Bill of Rights"
+    ],
+    "t": [
+      "Because of the state's population",
+      "Because bigger states get more senators",
+      "Because each state has two capitals"
+    ],
+    "pt": "Dois senadores por estado garantem representação igual aos estados pequenos — foi o Great Compromise (Compromisso de Connecticut); população só decide o número de deputados."
+  },
+  "29": {
+    "b": [
+      "Nancy Pelosi (California)",
+      "Marjorie Taylor Greene (Georgia)",
+      "Alexandria Ocasio-Cortez (New York)"
+    ],
+    "k": [
+      "Jim Jordan (Ohio)",
+      "Hakeem Jeffries (New York)",
+      "Steve Scalise (Louisiana)"
+    ],
+    "t": [
+      "Mike Johnson (Louisiana)",
+      "Thomas Massie (Kentucky)",
+      "Ilhan Omar (Minnesota)"
+    ],
+    "pt": "Decore o nome do deputado do seu distrito (não do estado inteiro) e confira antes da entrevista; os nomes acima são deputados de outros distritos."
+  },
+  "30": {
+    "b": [
+      "Joe Biden",
+      "Donald Trump",
+      "Kamala Harris"
+    ],
+    "k": [
+      "Nancy Pelosi (former Speaker)",
+      "Tom Emmer (House Majority Whip)",
+      "Jim Jordan (Ohio representative)"
+    ],
+    "t": [
+      "Hakeem Jeffries (House Minority Leader)",
+      "Kevin McCarthy (former Speaker)",
+      "Steve Scalise (House Majority Leader)"
+    ],
+    "pt": "O Speaker é o presidente da Câmara — não confunda com o líder da maioria (Scalise) nem com o líder da minoria (Jeffries); confira o nome atual em uscis.gov/citizenship/testupdates."
+  },
+  "31": {
+    "b": [
+      "The King",
+      "People in other countries",
+      "Only their family"
+    ],
+    "k": [
+      "Citizens of the whole country",
+      "People in other states",
+      "Members of Congress"
+    ],
+    "t": [
+      "Citizens of their district",
+      "Only the people who voted for them",
+      "The President"
+    ],
+    "pt": "O senador representa todo o estado — quem representa só um distrito é o deputado da Câmara."
+  },
+  "32": {
+    "b": [
+      "The King",
+      "People in other countries",
+      "Nobody — they inherit the job"
+    ],
+    "k": [
+      "The President",
+      "The Supreme Court",
+      "Citizens from the whole country"
+    ],
+    "t": [
+      "Citizens from their district",
+      "Members of the House",
+      "The state legislature"
+    ],
+    "pt": "Quem elege os senadores são os cidadãos do estado — o distrito é dos deputados, e a legislatura estadual só elegia senadores antes da 17ª Emenda (1913)."
+  },
+  "33": {
+    "b": [
+      "People in other countries",
+      "The King",
+      "Nobody"
+    ],
+    "k": [
+      "Citizens in another district",
+      "The President",
+      "The Supreme Court"
+    ],
+    "t": [
+      "Citizens of their state",
+      "People in the whole country",
+      "Only voters in their party"
+    ],
+    "pt": "O deputado representa só o seu distrito congressional — o estado inteiro é dos senadores, e ele representa todos do distrito, não só quem votou nele."
+  },
+  "34": {
+    "b": [
+      "The King",
+      "People in other countries",
+      "The mayor"
+    ],
+    "k": [
+      "The President",
+      "Citizens from the whole country",
+      "The Supreme Court"
+    ],
+    "t": [
+      "Citizens from their state",
+      "The state governor",
+      "Members of the Senate"
+    ],
+    "pt": "Quem elege o deputado são os cidadãos do distrito dele — os cidadãos do estado inteiro elegem os senadores."
+  },
+  "35": {
+    "b": [
+      "Because they are closer to Washington",
+      "Because they have more governors",
+      "Because they were founded first"
+    ],
+    "k": [
+      "Because they pay more taxes",
+      "Because the President decides",
+      "Because of the state's wealth"
+    ],
+    "t": [
+      "Because of the state's size in land",
+      "Because older states get more representatives",
+      "Because of the number of senators"
+    ],
+    "pt": "O número de deputados depende da população do estado — não do tamanho do território, da idade do estado nem de quantos senadores ele tem (são sempre 2)."
+  },
+  "36": {
+    "b": [
+      "One (1) year",
+      "For life",
+      "One hundred (100) years"
+    ],
+    "k": [
+      "Five (5) years",
+      "Three (3) years",
+      "Ten (10) years"
+    ],
+    "t": [
+      "Six (6) years",
+      "Two (2) years",
+      "Eight (8) years"
+    ],
+    "pt": "O mandato presidencial é de 4 anos — 6 é o de senador, 2 é o de deputado, e 8 é o total de dois mandatos."
+  },
+  "37": {
+    "b": [
+      "Because the President gets tired",
+      "Because the Supreme Court decides",
+      "Because the people vote only once"
+    ],
+    "k": [
+      "Because Congress votes every 4 years",
+      "Because the Vice President takes over",
+      "Because of the Bill of Rights"
+    ],
+    "t": [
+      "Because of the 25th Amendment",
+      "Because of the 12th Amendment",
+      "Because George Washington served only one term"
+    ],
+    "pt": "O limite de dois mandatos está na 22ª Emenda, para o presidente não ficar poderoso demais — Washington serviu dois mandatos (e recusou o terceiro); a 25ª Emenda é sobre sucessão, não sobre limite."
+  },
+  "38": {
+    "b": [
+      "The King of England",
+      "The Pope",
+      "The governor of New York"
+    ],
+    "k": [
+      "Joe Biden (former President)",
+      "Barack Obama (former President)",
+      "George W. Bush (former President)"
+    ],
+    "t": [
+      "JD Vance (Vice President now)",
+      "Mike Johnson (Speaker of the House)",
+      "Joe Biden (President 2021–2025)"
+    ],
+    "pt": "Não confunda o presidente com o vice (Vance) nem com o Speaker (Johnson), e ex-presidentes não valem — confira o nome atual em uscis.gov/citizenship/testupdates."
+  },
+  "39": {
+    "b": [
+      "The First Lady",
+      "The Secretary of State",
+      "The Chief Justice"
+    ],
+    "k": [
+      "Kamala Harris (former Vice President)",
+      "Mike Pence (former Vice President)",
+      "Joe Biden (former Vice President)"
+    ],
+    "t": [
+      "Marco Rubio (Secretary of State)",
+      "Mike Johnson (Speaker of the House)",
+      "Pete Hegseth (Secretary of War)"
+    ],
+    "pt": "O vice atual não é nenhum ex-vice (Harris, Pence, Biden) nem o Speaker — confira o nome atual em uscis.gov/citizenship/testupdates."
+  },
+  "40": {
+    "b": [
+      "The King",
+      "The mayor of Washington, D.C.",
+      "The general of the army"
+    ],
+    "k": [
+      "The President's spouse",
+      "The oldest senator",
+      "The Secretary of Defense"
+    ],
+    "t": [
+      "The Speaker of the House",
+      "The Secretary of State",
+      "The Chief Justice"
+    ],
+    "pt": "Quem assume é o vice-presidente — o Speaker só é o próximo da linha depois do vice, e o Secretário de Estado vem depois dele."
+  },
+  "41": {
+    "b": [
+      "Makes state laws",
+      "Runs the Supreme Court",
+      "Collects taxes in the states"
+    ],
+    "k": [
+      "Interprets laws",
+      "Decides if a law is constitutional",
+      "Elects senators"
+    ],
+    "t": [
+      "Writes laws",
+      "Declares war",
+      "Makes the federal budget"
+    ],
+    "pt": "O presidente sanciona e veta leis, faz cumprir as leis, comanda as Forças Armadas e nomeia juízes — escrever leis e declarar guerra são do Congresso, e interpretar leis é do Judiciário."
+  },
+  "42": {
+    "b": [
+      "The mayor",
+      "The governor",
+      "The sheriff"
+    ],
+    "k": [
+      "Congress",
+      "The Supreme Court",
+      "The Secretary of State"
+    ],
+    "t": [
+      "The Vice President",
+      "The Secretary of War",
+      "The Chairman of the Joint Chiefs of Staff"
+    ],
+    "pt": "O Comandante em Chefe das Forças Armadas é o presidente — o Secretário de Guerra e o chefe do Estado-Maior trabalham para ele, não acima dele."
+  },
+  "43": {
+    "b": [
+      "The mayor",
+      "The governor",
+      "The King"
+    ],
+    "k": [
+      "Congress",
+      "The Senate",
+      "The Supreme Court"
+    ],
+    "t": [
+      "The Vice President",
+      "The Speaker of the House",
+      "The Chief Justice"
+    ],
+    "pt": "Quem sanciona (assina) um projeto para virar lei é o presidente — o Congresso aprova o projeto, mas não o sanciona."
+  },
+  "44": {
+    "b": [
+      "The governor",
+      "The mayor",
+      "The King"
+    ],
+    "k": [
+      "The Senate",
+      "Congress",
+      "The Cabinet"
+    ],
+    "t": [
+      "The Vice President",
+      "The Supreme Court",
+      "The Speaker of the House"
+    ],
+    "pt": "Quem veta projetos é o presidente — a Suprema Corte pode derrubar uma lei depois (judicial review), mas isso não é veto."
+  },
+  "45": {
+    "b": [
+      "The governor",
+      "The mayor",
+      "The King"
+    ],
+    "k": [
+      "Congress",
+      "The Supreme Court",
+      "The people by voting"
+    ],
+    "t": [
+      "The Vice President",
+      "The Senate",
+      "The Chief Justice"
+    ],
+    "pt": "Quem nomeia os juízes federais é o presidente — o Senado só confirma (aprova) a nomeação, não nomeia."
+  },
+  "46": {
+    "b": [
+      "The United Nations",
+      "The state police",
+      "The mayor's office"
+    ],
+    "k": [
+      "Congress",
+      "Federal courts",
+      "State governments"
+    ],
+    "t": [
+      "The Senate",
+      "The Supreme Court",
+      "The House of Representatives"
+    ],
+    "pt": "O Executivo inclui o presidente, o Gabinete e os departamentos/agências federais — Senado e Câmara são o Legislativo, e a Suprema Corte é o Judiciário."
+  },
+  "47": {
+    "b": [
+      "Cooks for the President",
+      "Drives the President",
+      "Guards the White House"
+    ],
+    "k": [
+      "Commands the military",
+      "Writes the Constitution",
+      "Decides Supreme Court cases"
+    ],
+    "t": [
+      "Makes laws for the President",
+      "Vetoes bills for the President",
+      "Elects the President"
+    ],
+    "pt": "O Gabinete aconselha o presidente — ele não faz leis, não veta e não comanda as Forças Armadas; o chefe de cada departamento orienta o presidente na sua área."
+  },
+  "48": {
+    "b": [
+      "President and First Lady",
+      "Senator and Governor",
+      "Mayor and Sheriff"
+    ],
+    "k": [
+      "Secretary of State and Chief Justice",
+      "Attorney General and Speaker of the House",
+      "Secretary of Education and Secretary of the Senate"
+    ],
+    "t": [
+      "Secretary of State and Secretary of Immigration",
+      "Attorney General and Secretary of Homeland Defense",
+      "Secretary of the Treasury and Secretary of Banking"
+    ],
+    "pt": "Só vale um par com dois cargos do Gabinete — “Secretary of Immigration”, “Secretary of Homeland Defense” e “Secretary of Banking” não existem; o certo é Homeland Security, e não há secretaria de Imigração nem de Bancos."
+  },
+  "49": {
+    "b": [
+      "It is a college in Washington, D.C.",
+      "It teaches presidents",
+      "It is a university for voters"
+    ],
+    "k": [
+      "It writes the Constitution",
+      "It decides Supreme Court cases",
+      "It makes state laws"
+    ],
+    "t": [
+      "It elects members of Congress",
+      "It counts the popular vote for president",
+      "It chooses the Vice President alone"
+    ],
+    "pt": "O Colégio Eleitoral decide quem é eleito presidente — ele não elege o Congresso nem conta o voto popular; é um compromisso entre eleição popular e escolha pelo Congresso."
+  },
+  "50": {
+    "b": [
+      "The FBI",
+      "The army",
+      "The post office"
+    ],
+    "k": [
+      "Congress",
+      "The Cabinet",
+      "The presidency"
+    ],
+    "t": [
+      "The Senate Judiciary Committee",
+      "The Department of Justice",
+      "The Attorney General's office"
+    ],
+    "pt": "O Judiciário é a Suprema Corte e os tribunais federais — o Departamento de Justiça e o Attorney General são do Executivo, e o comitê do Senado é do Legislativo."
+  },
+  "51": {
+    "b": [
+      "Collects taxes",
+      "Commands the army",
+      "Runs elections in the states"
+    ],
+    "k": [
+      "Makes the federal budget",
+      "Declares war",
+      "Appoints judges"
+    ],
+    "t": [
+      "Writes laws",
+      "Enforces laws",
+      "Vetoes bills"
+    ],
+    "pt": "O Judiciário revê e explica as leis e decide se uma lei viola a Constituição — escrever leis é do Congresso, fazer cumprir é do Executivo, e vetar é do presidente."
+  },
+  "52": {
+    "b": [
+      "The mayor's court",
+      "The state police court",
+      "The traffic court"
+    ],
+    "k": [
+      "The Court of Appeals",
+      "The district court",
+      "The state supreme court"
+    ],
+    "t": [
+      "The Federal Court of Appeals",
+      "The highest state court",
+      "The Court of Federal Claims"
+    ],
+    "pt": "A corte mais alta dos EUA é a Suprema Corte (Supreme Court) — os tribunais de apelação e distritais são inferiores a ela."
+  },
+  "53": {
+    "b": [
+      "Three (3)",
+      "One hundred (100)",
+      "Fifty (50)"
+    ],
+    "k": [
+      "Five (5)",
+      "12 (12)",
+      "15 (15)"
+    ],
+    "t": [
+      "11 (11)",
+      "Seven (7)",
+      "Eight (8)"
+    ],
+    "pt": "São 9 cadeiras na Suprema Corte — 5 é o número mínimo para decidir um caso (maioria), não o total de cadeiras."
+  },
+  "54": {
+    "b": [
+      "One hundred (100)",
+      "Fifty (50)",
+      "Ten (10)"
+    ],
+    "k": [
+      "Three (3)",
+      "Seven (7)",
+      "Two (2)"
+    ],
+    "t": [
+      "Nine (9)",
+      "Four (4)",
+      "Six (6)"
+    ],
+    "pt": "São 5 juízes — a maioria de 9; 9 é o total de cadeiras, e 4 não forma maioria."
+  },
+  "55": {
+    "b": [
+      "(For) 1 year",
+      "(For) 100 years",
+      "(For) 50 years"
+    ],
+    "k": [
+      "(For) 2 years",
+      "(For) 8 years",
+      "(For) 20 years"
+    ],
+    "t": [
+      "(For) 10 years",
+      "(For) 6 years",
+      "(For) 4 years"
+    ],
+    "pt": "Os juízes da Suprema Corte servem por toda a vida (até se aposentarem) — 6 é o mandato de senador e 4 o de presidente."
+  },
+  "56": {
+    "b": [
+      "Because they are kings",
+      "Because they never retire",
+      "Because they are chosen by the states"
+    ],
+    "k": [
+      "Because the Constitution says 10 years",
+      "Because they are elected by the people",
+      "Because Congress votes every year"
+    ],
+    "t": [
+      "To serve until age 70",
+      "To match the President's term",
+      "To be re-elected every 6 years"
+    ],
+    "pt": "O cargo vitalício existe para os juízes serem independentes da política — eles não são eleitos nem reeleitos, e não há idade fixa de aposentadoria."
+  },
+  "57": {
+    "b": [
+      "The President",
+      "The Attorney General",
+      "The Speaker of the House"
+    ],
+    "k": [
+      "Samuel Alito (Associate Justice)",
+      "Sonia Sotomayor (Associate Justice)",
+      "Brett Kavanaugh (Associate Justice)"
+    ],
+    "t": [
+      "William Rehnquist (former Chief Justice, 1986–2005)",
+      "Warren Burger (former Chief Justice, 1969–1986)",
+      "Clarence Thomas (Associate Justice since 1991)"
+    ],
+    "pt": "O Chief Justice é o presidente da Suprema Corte — não confunda com os outros juízes (Associate Justices) nem com ex-Chief Justices; confira em uscis.gov/citizenship/testupdates."
+  },
+  "58": {
+    "b": [
+      "Issue marriage licenses",
+      "Run public schools",
+      "Elect the mayor"
+    ],
+    "k": [
+      "Provide schooling and education",
+      "Approve zoning and land use",
+      "Run fire departments"
+    ],
+    "t": [
+      "Collect taxes",
+      "Provide police protection",
+      "Give a driver's license"
+    ],
+    "pt": "Só o governo federal imprime dinheiro, declara guerra, cria exército e faz tratados — cobrar impostos é poder dos dois (federal e estadual), e polícia, escola e carteira de motorista são dos estados."
+  },
+  "59": {
+    "b": [
+      "Elect the President",
+      "Run the FBI",
+      "Control the borders"
+    ],
+    "k": [
+      "Create an army",
+      "Set foreign policy",
+      "Mint coins"
+    ],
+    "t": [
+      "Print paper money",
+      "Declare war",
+      "Make treaties"
+    ],
+    "pt": "Escola, polícia, bombeiros, carteira de motorista e zoneamento são poderes dos estados — imprimir dinheiro, declarar guerra e fazer tratados são só do governo federal."
+  },
+  "60": {
+    "b": [
+      "It makes English the official language",
+      "It creates the flag",
+      "It names the first President"
+    ],
+    "k": [
+      "It gives women the right to vote",
+      "It ends slavery",
+      "It gives the right to bear arms"
+    ],
+    "t": [
+      "It gives all powers to the federal government",
+      "It gives the President power to veto state laws",
+      "It creates the Supreme Court"
+    ],
+    "pt": "A 10ª Emenda diz que os poderes não dados ao governo federal ficam com os estados ou com o povo — é o contrário de dar tudo ao governo federal; voto das mulheres (19ª), fim da escravidão (13ª) e armas (2ª) são outras emendas."
+  },
+  "61": {
+    "b": [
+      "Gavin Newsom (California)",
+      "Ron DeSantis (Florida)",
+      "Greg Abbott (Texas)"
+    ],
+    "k": [
+      "Kathy Hochul (New York)",
+      "Josh Shapiro (Pennsylvania)",
+      "Maura Healey (Massachusetts)"
+    ],
+    "t": [
+      "Wes Moore (Maryland)",
+      "Abigail Spanberger (Virginia)",
+      "Jared Polis (Colorado)"
+    ],
+    "pt": "Decore o governador do seu estado e confira antes da entrevista; os nomes acima são governadores de outros estados."
+  },
+  "62": {
+    "b": [
+      "New York City",
+      "Los Angeles",
+      "Chicago"
+    ],
+    "k": [
+      "Washington, D.C.",
+      "Philadelphia",
+      "Miami"
+    ],
+    "t": [
+      "Albany (New York)",
+      "Harrisburg (Pennsylvania)",
+      "Hartford (Connecticut)"
+    ],
+    "pt": "Decore a capital do seu estado — não confunda com a maior cidade do estado (Nova York, Filadélfia e Miami não são capitais) nem com Washington, D.C., que é a capital do país."
+  },
+  "63": {
+    "b": [
+      "The President serves four years",
+      "Congress has 435 members",
+      "The Supreme Court has nine justices"
+    ],
+    "k": [
+      "Only men can vote",
+      "Only people over 21 can vote",
+      "Only citizens born in the United States can vote"
+    ],
+    "t": [
+      "Citizens 21 and older (can vote).",
+      "You must pay a poll tax to vote.",
+      "Only white male citizens can vote."
+    ],
+    "pt": "São quatro emendas sobre quem pode votar: aos 18 anos, sem pagar poll tax, qualquer cidadão (homens e mulheres) e homens de qualquer raça — a pegadinha é trocar 18 por 21, inverter o poll tax (“tem que pagar”) ou limitar o voto a homens brancos, que é justamente o que as emendas proibiram."
+  },
+  "64": {
+    "b": [
+      "The President alone",
+      "Only the military",
+      "Only people born in Washington, D.C."
+    ],
+    "k": [
+      "Permanent residents (green card holders)",
+      "Anyone living in the United States",
+      "Anyone who pays taxes in the United States"
+    ],
+    "t": [
+      "Citizens and permanent residents",
+      "All legal residents",
+      "Anyone born in the United States"
+    ],
+    "pt": "Só cidadãos podem votar em eleições federais, concorrer a cargo federal e servir no júri — residente permanente (green card) mora e paga impostos nos EUA, mas não vota nem serve no júri; e “nascer nos EUA” não basta como resposta, porque cidadãos naturalizados também podem."
+  },
+  "65": {
+    "b": [
+      "Free housing, Free healthcare, Free college",
+      "The right to a passport, The right to a driver’s license, The right to a job",
+      "Freedom to own land, Freedom to open a business, Freedom to travel abroad"
+    ],
+    "k": [
+      "Freedom of speech, The right to vote, The right to run for office",
+      "Freedom of religion, The right to serve on a jury, The right to a U.S. passport",
+      "The right to bear arms, The right to vote, The duty to pay taxes"
+    ],
+    "t": [
+      "Freedom of speech, Freedom of assembly, The right to vote in federal elections",
+      "Freedom of religion, Freedom to petition the government, The right to serve on a jury",
+      "Freedom of expression, Freedom of religion, The right to run for federal office"
+    ],
+    "pt": "Os direitos são de TODOS que vivem nos EUA — expressão, discurso, reunião, petição ao governo, religião e portar armas; votar, concorrer a cargo e servir no júri são direitos só de cidadãos, então qualquer trio que inclua um deles está errado, mesmo que os outros dois estejam certos."
+  },
+  "66": {
+    "b": [
+      "The President",
+      "Congress",
+      "The Supreme Court"
+    ],
+    "k": [
+      "The Constitution",
+      "The Declaration of Independence",
+      "The Bill of Rights"
+    ],
+    "t": [
+      "The flag and the Constitution",
+      "The United States and the President",
+      "The government of the United States"
+    ],
+    "pt": "No Pledge of Allegiance mostramos lealdade aos Estados Unidos e à bandeira — não à Constituição, nem ao presidente, nem ao governo do momento; o juramento é ao país e à bandeira que o representa."
+  },
+  "67": {
+    "b": [
+      "Buy a house and Get a job",
+      "Learn to drive and Open a bank account",
+      "Celebrate July 4th and Fly the flag"
+    ],
+    "k": [
+      "Obey the laws of the United States and Pay taxes",
+      "Defend the (U.S.) Constitution and Vote",
+      "Be loyal to the United States and Run for office"
+    ],
+    "t": [
+      "Give up loyalty to other countries and Defend the President",
+      "Serve in the military (if needed) and Obey the President",
+      "Be loyal to the United States and Give up loyalty to the United States"
+    ],
+    "pt": "No juramento o novo cidadão promete abrir mão da lealdade a outros países, defender a Constituição, obedecer às leis, servir nas forças armadas e à nação se preciso, e ser leal aos EUA — a pegadinha é trocar “Constituição” e “leis” por “presidente”: a lealdade é à Constituição e ao país, não a uma pessoa."
+  },
+  "68": {
+    "b": [
+      "By voting in an election",
+      "By paying taxes for 5 years",
+      "By getting a driver’s license"
+    ],
+    "k": [
+      "By living in the United States for 10 years",
+      "By marrying a U.S. citizen",
+      "By serving in the U.S. military"
+    ],
+    "t": [
+      "Be born in the United States, no matter who your parents are",
+      "Naturalize after living in the United States for 1 year",
+      "Derive citizenship from a U.S. citizen grandparent"
+    ],
+    "pt": "Há três caminhos: nascer nos EUA (nas condições da 14ª Emenda), naturalizar-se ou derivar a cidadania (dos pais, nas condições do Congresso) — morar muitos anos, casar ou servir no exército, sozinhos, não dão cidadania; e naturalização exige anos de residência, não 1 ano, nem a cidadania deriva de avós."
+  },
+  "69": {
+    "b": [
+      "Watch the news and Celebrate holidays",
+      "Fly the flag and Sing the national anthem",
+      "Pay taxes and Serve in the military"
+    ],
+    "k": [
+      "Vote and Pay taxes",
+      "Run for office and Obey the law",
+      "Join a political party and Serve in the military"
+    ],
+    "t": [
+      "Vote and Serve on a jury",
+      "Join a civic group and Pay taxes",
+      "Help with a campaign and Register for the Selective Service"
+    ],
+    "pt": "Participação cívica é agir na vida pública — votar, concorrer, entrar num partido, ajudar numa campanha, dar opinião a um eleito, escrever para o jornal; pagar impostos, obedecer à lei, servir no júri e se registrar no Selective Service são deveres, não exemplos de participação cívica — um par só vale se os dois itens estiverem na lista."
+  },
+  "70": {
+    "b": [
+      "Watch television",
+      "Go to school",
+      "Buy a house"
+    ],
+    "k": [
+      "Join a political party",
+      "Write to a newspaper",
+      "Help with a campaign"
+    ],
+    "t": [
+      "Serve on a jury",
+      "Register for the Selective Service",
+      "Defend the Constitution"
+    ],
+    "pt": "Servir o país inclui votar, pagar impostos, obedecer à lei, servir nas forças armadas, concorrer a um cargo e trabalhar para o governo — participar de partido, escrever para o jornal e ajudar em campanha são participação cívica (pergunta 69), e júri, Selective Service e defender a Constituição são outros deveres, não as respostas desta pergunta."
+  },
+  "71": {
+    "b": [
+      "To build the President’s house",
+      "To pay for the Olympics",
+      "To buy new flags"
+    ],
+    "k": [
+      "To fund state schools",
+      "To pay for local police",
+      "To fund the state government"
+    ],
+    "t": [
+      "Required by the 14th Amendment",
+      "Required by the 10th Amendment",
+      "To fund the military only"
+    ],
+    "pt": "Pagar impostos federais é exigido por lei e pela Constituição — a 16ª Emenda — e é um dever cívico, porque todos pagam para financiar o governo federal; a pegadinha é o número da emenda (14ª e 10ª são outras emendas) e limitar o uso só às forças armadas, quando o dinheiro financia o governo federal inteiro."
+  },
+  "72": {
+    "b": [
+      "To get a driver’s license",
+      "To vote in elections",
+      "To get a job"
+    ],
+    "k": [
+      "To join the military right away",
+      "To serve in the military now",
+      "To get U.S. citizenship"
+    ],
+    "t": [
+      "Required by the U.S. Constitution",
+      "Civic duty only for U.S. citizens",
+      "Makes the draft faster, if needed"
+    ],
+    "pt": "Registrar-se no Selective Service é exigido por lei, é um dever cívico e serve para deixar o alistamento (draft) justo, se for preciso um dia — registrar-se não é entrar no exército, não é só para cidadãos (vale para quase todos os homens de 18 a 25 que moram nos EUA) e não é “mais rápido”, é “mais justo”."
+  },
+  "73": {
+    "b": [
+      "To become king of England",
+      "To visit the Grand Canyon",
+      "To build the first railroad"
+    ],
+    "k": [
+      "To spread the British Empire",
+      "To find a shorter route to India",
+      "To serve in the British navy"
+    ],
+    "t": [
+      "To escape taxation without representation",
+      "To practice the King’s religion",
+      "To join the British army in America"
+    ],
+    "pt": "Os colonos vieram por liberdade (inclusive religiosa e política), oportunidade econômica e para escapar de perseguição — impostos (“taxation without representation”) foram motivo da independência, não da vinda, e praticar a religião do rei é o contrário de liberdade religiosa."
+  },
+  "74": {
+    "b": [
+      "The British",
+      "The Spanish",
+      "The French"
+    ],
+    "k": [
+      "The Pilgrims",
+      "The Puritans",
+      "The Quakers"
+    ],
+    "t": [
+      "The Aztecs",
+      "The Mayans",
+      "The Incas"
+    ],
+    "pt": "Antes dos europeus, quem vivia na América eram os índios americanos (Native Americans) — astecas, maias e incas viviam no México, na América Central e na América do Sul, não no território dos EUA."
+  },
+  "75": {
+    "b": [
+      "The British colonists",
+      "The French traders",
+      "The Spanish kings"
+    ],
+    "k": [
+      "Native Americans",
+      "The Irish",
+      "The English"
+    ],
+    "t": [
+      "People from the Caribbean",
+      "People from Brazil",
+      "People from India"
+    ],
+    "pt": "O grupo levado e vendido como escravo foi o dos africanos — a resposta oficial é “Africans / People from Africa”; a pegadinha é confundir com outros povos ou regiões de onde também saíram pessoas escravizadas."
+  },
+  "76": {
+    "b": [
+      "The Civil War",
+      "World War I",
+      "World War II"
+    ],
+    "k": [
+      "The War of 1812",
+      "The Mexican-American War",
+      "The Spanish-American War"
+    ],
+    "t": [
+      "The French and Indian War",
+      "The Boston Tea Party",
+      "The War for Independence from Spain"
+    ],
+    "pt": "A guerra pela independência foi a Revolução Americana (Revolutionary War) — a Guerra Franco-Indígena aconteceu antes, contra a França, e o Boston Tea Party foi um protesto, não uma guerra."
+  },
+  "77": {
+    "b": [
+      "They wanted a new king",
+      "They wanted to join France",
+      "They loved paying taxes"
+    ],
+    "k": [
+      "The British gave them too much freedom",
+      "The King lowered their taxes",
+      "They wanted British soldiers to stay in their houses"
+    ],
+    "t": [
+      "Taxation with representation",
+      "The Tea Act lowered the price of tea",
+      "The Stamp Act taxed people in England"
+    ],
+    "pt": "Os motivos foram impostos altos, “taxation without representation”, soldados britânicos nas casas, falta de autogoverno e atos como Boston Massacre, Boston Tea Party, Stamp Act, Sugar Act, Townshend Acts e Intolerable Acts — “taxation WITH representation” é o inverso, a pegadinha; o Tea Act baixou o preço do chá, mas o problema era o imposto e o monopólio."
+  },
+  "78": {
+    "b": [
+      "George Washington",
+      "Abraham Lincoln",
+      "Theodore Roosevelt"
+    ],
+    "k": [
+      "Benjamin Franklin",
+      "James Madison",
+      "Alexander Hamilton"
+    ],
+    "t": [
+      "John Hancock",
+      "Thomas Paine",
+      "John Adams"
+    ],
+    "pt": "Quem escreveu a Declaração foi Thomas Jefferson — John Hancock foi o primeiro a assinar, Thomas Paine escreveu “Common Sense” e Franklin e Adams estavam no comitê, mas não escreveram o texto."
+  },
+  "79": {
+    "b": [
+      "December 25, 1776",
+      "January 1, 1800",
+      "November 11, 1918"
+    ],
+    "k": [
+      "July 4, 1787",
+      "September 17, 1787",
+      "April 19, 1775"
+    ],
+    "t": [
+      "July 2, 1776",
+      "August 2, 1776",
+      "July 4, 1777"
+    ],
+    "pt": "A Declaração foi adotada em 4 de julho de 1776 — o Congresso votou a independência em 2 de julho e a maioria assinou o documento em 2 de agosto, por isso essas duas datas são as pegadinhas clássicas."
+  },
+  "80": {
+    "b": [
+      "The signing of the Constitution",
+      "The Louisiana Purchase",
+      "The first Thanksgiving"
+    ],
+    "k": [
+      "The Boston Tea Party",
+      "The Boston Massacre",
+      "The First Continental Congress"
+    ],
+    "t": [
+      "The Battle of Lexington",
+      "The Battle of Concord",
+      "The Siege of Boston"
+    ],
+    "pt": "Os eventos da lista oficial são Bunker Hill, a Declaração, Washington cruzando o Delaware (Trenton), Saratoga, Valley Forge e Yorktown — Lexington, Concord e o cerco de Boston foram batalhas reais da Revolução, mas não estão na lista oficial, então não valem na prova."
+  },
+  "81": {
+    "b": [
+      "California, Texas, Florida, Ohio, Arizona",
+      "Alaska, Hawaii, Montana, Idaho, Utah",
+      "Colorado, New Mexico, Oklahoma, Kansas, Nebraska"
+    ],
+    "k": [
+      "Virginia, Maryland, Florida, Texas, Ohio",
+      "New York, Pennsylvania, Michigan, Illinois, Wisconsin",
+      "Massachusetts, Connecticut, Oregon, Washington, Nevada"
+    ],
+    "t": [
+      "New York, New Jersey, Pennsylvania, Delaware, Vermont",
+      "Virginia, North Carolina, South Carolina, Georgia, Kentucky",
+      "Massachusetts, Connecticut, Rhode Island, New Hampshire, Maine"
+    ],
+    "pt": "São 13 estados originais: New Hampshire, Massachusetts, Rhode Island, Connecticut, New York, New Jersey, Pennsylvania, Delaware, Maryland, Virginia, North Carolina, South Carolina e Georgia — Vermont foi o 14º estado (1791), Kentucky entrou em 1792 e Maine era parte de Massachusetts até 1820; cada grupo distrator tem pelo menos um estado que não é original. Pergunta “name five”: como múltipla escolha, só funciona escolhendo um grupo de cinco estados; no modo voz ou flip-card, o usuário lista cinco estados."
+  },
+  "82": {
+    "b": [
+      "The Pledge of Allegiance",
+      "The National Anthem",
+      "The Emancipation Proclamation"
+    ],
+    "k": [
+      "The Declaration of Independence",
+      "The Articles of Confederation",
+      "The Bill of Rights"
+    ],
+    "t": [
+      "The Federalist Papers",
+      "The Virginia Declaration of Rights",
+      "The Mayflower Compact"
+    ],
+    "pt": "O documento escrito em 1787 foi a Constituição — a Declaração é de 1776 e os Federalist Papers foram escritos em 1787–1788 para defender a Constituição, não são a Constituição."
+  },
+  "83": {
+    "b": [
+      "Thomas Jefferson",
+      "George Washington",
+      "Benjamin Franklin"
+    ],
+    "k": [
+      "John Adams",
+      "Thomas Paine",
+      "Samuel Adams"
+    ],
+    "t": [
+      "Patrick Henry",
+      "George Mason",
+      "James Monroe"
+    ],
+    "pt": "Os escritores dos Federalist Papers foram Madison, Hamilton e Jay, sob o pseudônimo Publius — Patrick Henry e George Mason eram antifederalistas, contra a aprovação da Constituição."
+  },
+  "84": {
+    "b": [
+      "They declared independence from Britain",
+      "They ended the Revolutionary War",
+      "They made George Washington president"
+    ],
+    "k": [
+      "They listed the rights of the people",
+      "They created the three branches of government",
+      "They gave women the right to vote"
+    ],
+    "t": [
+      "They opposed passing the Constitution",
+      "They replaced the Articles of Confederation",
+      "They were the first draft of the Constitution"
+    ],
+    "pt": "Os Federalist Papers ajudaram o povo a entender a Constituição e defenderam sua aprovação — quem era contra a aprovação eram os Anti-Federalist Papers; quem substituiu os Articles foi a própria Constituição, não os ensaios."
+  },
+  "85": {
+    "b": [
+      "First president of the United States",
+      "Commander of the Continental Army",
+      "Discovered America"
+    ],
+    "k": [
+      "First Secretary of the Treasury",
+      "Father of the Constitution",
+      "Third president of the United States"
+    ],
+    "t": [
+      "Invented the light bulb",
+      "First Secretary of State",
+      "Doubled the size of the United States (Louisiana Purchase)"
+    ],
+    "pt": "Franklin foi inventor, diplomata, primeiro Postmaster General, ajudou a escrever a Declaração e fundou as primeiras bibliotecas públicas gratuitas — a lâmpada foi Edison, o primeiro Secretário de Estado foi Jefferson e quem dobrou o país foi Jefferson com a Louisiana Purchase."
+  },
+  "86": {
+    "b": [
+      "Wrote the Declaration of Independence",
+      "16th president of the United States",
+      "Invented the telephone"
+    ],
+    "k": [
+      "First Secretary of the Treasury",
+      "Father of the Constitution",
+      "Third president of the United States"
+    ],
+    "t": [
+      "First Postmaster General",
+      "Led the United States during the Civil War",
+      "President during the War of 1812"
+    ],
+    "pt": "Washington foi o “Pai da Pátria”, primeiro presidente, general do Exército Continental e presidente da Convenção Constitucional — a Guerra Civil foi Lincoln, a Guerra de 1812 foi Madison e o primeiro Postmaster General foi Franklin."
+  },
+  "87": {
+    "b": [
+      "First president of the United States",
+      "Father of the Constitution",
+      "First Secretary of the Treasury"
+    ],
+    "k": [
+      "General of the Continental Army",
+      "First Postmaster General",
+      "Helped establish the First Bank of the United States"
+    ],
+    "t": [
+      "Father of Our Country",
+      "Fourth president of the United States",
+      "President of the Constitutional Convention"
+    ],
+    "pt": "Jefferson escreveu a Declaração, foi o terceiro presidente, dobrou o tamanho dos EUA com a Louisiana Purchase, foi o primeiro Secretário de Estado e fundou a Universidade da Virgínia — o quarto presidente foi Madison, e o “Pai da Pátria” é Washington."
+  },
+  "88": {
+    "b": [
+      "First president of the United States",
+      "Wrote the Declaration of Independence",
+      "Founded the first free public libraries"
+    ],
+    "k": [
+      "Third president of the United States",
+      "First Secretary of the Treasury",
+      "First Postmaster General"
+    ],
+    "t": [
+      "President of the Constitutional Convention",
+      "Helped write the Declaration of Independence",
+      "Fifth president of the United States"
+    ],
+    "pt": "Madison foi o “Pai da Constituição”, quarto presidente, presidente durante a Guerra de 1812 e um dos escritores dos Federalist Papers — o quinto presidente foi Monroe, presidente da Convenção Constitucional foi Washington e quem ajudou a escrever a Declaração foi Franklin."
+  },
+  "89": {
+    "b": [
+      "First president of the United States",
+      "Third president of the United States",
+      "Wrote the Declaration of Independence"
+    ],
+    "k": [
+      "Father of the Constitution",
+      "First Secretary of State",
+      "First Postmaster General"
+    ],
+    "t": [
+      "Second president of the United States",
+      "Helped write the Declaration of Independence",
+      "President during the War of 1812"
+    ],
+    "pt": "Hamilton foi o primeiro Secretário do Tesouro, um dos escritores dos Federalist Papers, ajudou a criar o First Bank e foi assessor de Washington — ele nunca foi presidente; o segundo presidente foi John Adams e a Guerra de 1812 foi Madison."
+  },
+  "90": {
+    "b": [
+      "The White House",
+      "The Statue of Liberty",
+      "Mount Rushmore"
+    ],
+    "k": [
+      "Florida",
+      "Alaska",
+      "Texas"
+    ],
+    "t": [
+      "The Orleans Territory",
+      "The Mississippi Territory",
+      "West Florida"
+    ],
+    "pt": "Os EUA compraram a Louisiana Territory da França em 1803 por US$ 15 milhões, dobrando o tamanho do país — o Orleans Territory era só a parte sul dela, o Mississippi Territory já era americano desde 1798 e a Flórida foi comprada da Espanha."
+  },
+  "91": {
+    "b": [
+      "The Gold Rush",
+      "The Great Depression",
+      "The building of the Transcontinental Railroad"
+    ],
+    "k": [
+      "The Revolutionary War",
+      "World War I",
+      "World War II"
+    ],
+    "t": [
+      "The Texas Revolution",
+      "The French and Indian War",
+      "The Spanish Civil War"
+    ],
+    "pt": "As guerras dos EUA nos anos 1800 na lista oficial são a Guerra de 1812, a Guerra Mexicano-Americana, a Guerra Civil e a Guerra Hispano-Americana — a Revolução foi no século XVIII e as Guerras Mundiais no século XX."
+  },
+  "92": {
+    "b": [
+      "The Great Depression",
+      "The Louisiana Purchase",
+      "The Gold Rush"
+    ],
+    "k": [
+      "World War I",
+      "World War II",
+      "The (Persian) Gulf War"
+    ],
+    "t": [
+      "The Korean War",
+      "The Vietnam War",
+      "The American Revolution"
+    ],
+    "pt": "A Guerra Civil foi a guerra entre o Norte (União) e o Sul (Confederação), de 1861 a 1865 — a Coreia e o Vietnã também foram divididos entre Norte e Sul, mas são guerras do século XX em outros países."
+  },
+  "93": {
+    "b": [
+      "The Boston Tea Party",
+      "The signing of the Declaration of Independence",
+      "The first Moon landing"
+    ],
+    "k": [
+      "The Battle of Bunker Hill",
+      "The attack on Pearl Harbor",
+      "The Battle of Yorktown"
+    ],
+    "t": [
+      "The surrender at Gettysburg",
+      "Sherman’s March to Richmond",
+      "Lincoln’s assassination at Gettysburg"
+    ],
+    "pt": "Na lista oficial do USCIS só valem os 8 eventos citados — Gettysburg foi uma batalha (não a rendição), Sherman marchou até o mar (Savannah) e Lincoln foi assassinado no Ford’s Theatre, em Washington, não em Gettysburg."
+  },
+  "94": {
+    "b": [
+      "Invented the telephone",
+      "Discovered America",
+      "Founded the first free public library"
+    ],
+    "k": [
+      "Led the United States during World War II",
+      "Signed the Federal-Aid Highway Act of 1956",
+      "Was the first Secretary of the Treasury"
+    ],
+    "t": [
+      "Was the first president of the United States",
+      "Wrote the Declaration of Independence",
+      "Ended slavery with the 13th Amendment"
+    ],
+    "pt": "Lincoln foi o 16º presidente, liderou a União na Guerra Civil, preservou a União e fez o Discurso de Gettysburg — o 1º presidente foi Washington, a Declaração foi escrita por Jefferson e a 13ª Emenda só foi ratificada depois da morte de Lincoln."
+  },
+  "95": {
+    "b": [
+      "Gave women the right to vote",
+      "Created the Supreme Court",
+      "Declared independence from Britain"
+    ],
+    "k": [
+      "Ended the Civil War",
+      "Gave all men the right to vote",
+      "Declared war on the Confederacy"
+    ],
+    "t": [
+      "Freed ALL slaves in the United States",
+      "Freed slaves in the Northern states",
+      "Abolished slavery in the Constitution"
+    ],
+    "pt": "A Proclamação da Emancipação (1863) libertou os escravizados nos estados confederados, não em todos os EUA — os estados fronteiriços do Norte mantiveram a escravidão até a 13ª Emenda, em 1865."
+  },
+  "96": {
+    "b": [
+      "The Louisiana Purchase",
+      "The signing of the Declaration of Independence",
+      "The first Moon landing"
+    ],
+    "k": [
+      "The Revolutionary War",
+      "World War I",
+      "World War II"
+    ],
+    "t": [
+      "The War of 1812",
+      "The Mexican-American War",
+      "The Spanish-American War"
+    ],
+    "pt": "Foi a Guerra Civil que acabou com a escravidão nos EUA — a Revolução acabou com o domínio britânico, e a Guerra de 1812 e a Guerra Mexicano-Americana não tiveram a escravidão como desfecho."
+  },
+  "97": {
+    "b": [
+      "The Bill of Rights",
+      "The Declaration of Independence",
+      "The Constitution"
+    ],
+    "k": [
+      "1st Amendment",
+      "19th Amendment",
+      "26th Amendment"
+    ],
+    "t": [
+      "13th Amendment",
+      "15th Amendment",
+      "The Civil Rights Act of 1866"
+    ],
+    "pt": "É a 14ª Emenda (1868) que diz que toda pessoa nascida ou naturalizada nos EUA é cidadã — a 13ª acabou com a escravidão e a 15ª deu o direito de voto aos homens; as três são as emendas da Reconstrução e se confundem."
+  },
+  "98": {
+    "b": [
+      "1492",
+      "1776",
+      "2001"
+    ],
+    "k": [
+      "1920 (19th Amendment — women)",
+      "1965 (Voting Rights Act)",
+      "1863 (Emancipation Proclamation)"
+    ],
+    "t": [
+      "1865 (end of the Civil War)",
+      "With the 13th Amendment",
+      "With the 14th Amendment"
+    ],
+    "pt": "Todos os homens ganharam o direito de voto em 1870, com a 15ª Emenda, durante a Reconstrução — 1865 foi o fim da Guerra Civil e a 13ª Emenda, e 1868 foi a 14ª Emenda (cidadania, não voto)."
+  },
+  "99": {
+    "b": [
+      "George Washington",
+      "Abraham Lincoln",
+      "Thomas Jefferson"
+    ],
+    "k": [
+      "Martin Luther King, Jr.",
+      "Rosa Parks",
+      "Cesar Chavez"
+    ],
+    "t": [
+      "Clara Barton",
+      "Harriet Beecher Stowe",
+      "Victoria Woodhull"
+    ],
+    "pt": "As líderes da lista oficial são Susan B. Anthony, Elizabeth Cady Stanton, Sojourner Truth, Harriet Tubman, Lucretia Mott e Lucy Stone — Clara Barton fundou a Cruz Vermelha e Harriet Beecher Stowe foi escritora abolicionista, mas não estão na lista do USCIS."
+  },
+  "100": {
+    "b": [
+      "The Great Depression",
+      "The Louisiana Purchase",
+      "The Emancipation Proclamation"
+    ],
+    "k": [
+      "American Revolution",
+      "Civil War",
+      "War of 1812"
+    ],
+    "t": [
+      "Spanish-American War",
+      "War in Afghanistan",
+      "War in Iraq"
+    ],
+    "pt": "As guerras dos anos 1900 na lista são Primeira e Segunda Guerra Mundial, Coreia, Vietnã e Golfo — a Guerra Hispano-Americana foi em 1898 (século XIX) e Afeganistão e Iraque são dos anos 2000, depois do 11 de setembro."
+  },
+  "101": {
+    "b": [
+      "Because Japan attacked Pearl Harbor",
+      "To stop the spread of communism",
+      "To free the slaves"
+    ],
+    "k": [
+      "Because Germany invaded Poland",
+      "Because Iraq invaded Kuwait",
+      "Because terrorists attacked the United States on September 11, 2001"
+    ],
+    "t": [
+      "Because Germany attacked U.S. military ships",
+      "To support the Central Powers (Germany, Austria-Hungary, the Ottoman Empire, and Bulgaria)",
+      "To oppose the Allied Powers (England, France, Italy, and Russia)"
+    ],
+    "pt": "Os EUA entraram na Primeira Guerra porque a Alemanha atacou navios civis americanos — Pearl Harbor é da Segunda Guerra, e os Aliados eram Inglaterra, França, Itália e Rússia, não as Potências Centrais."
+  },
+  "102": {
+    "b": [
+      "1776",
+      "1865",
+      "1964"
+    ],
+    "k": [
+      "1870",
+      "1965",
+      "1789"
+    ],
+    "t": [
+      "1919",
+      "18th Amendment",
+      "1921"
+    ],
+    "pt": "As mulheres conquistaram o voto em 1920, com a 19ª Emenda — 1919 foi só o ano em que o Congresso aprovou a emenda, e a 18ª Emenda é a da Lei Seca, não do voto."
+  },
+  "103": {
+    "b": [
+      "A war between the North and the South",
+      "The first moon landing",
+      "A new amendment to the Constitution"
+    ],
+    "k": [
+      "A short economic downturn in the 1920s",
+      "A period of rapid economic growth in the 1950s",
+      "A housing crisis in 2008"
+    ],
+    "t": [
+      "The stock market crash of 1929",
+      "The Great Recession of 2008",
+      "The longest economic boom in modern history"
+    ],
+    "pt": "A Grande Depressão foi a recessão econômica mais longa da história moderna — a quebra da Bolsa de 1929 foi só o começo dela, e a Grande Recessão de 2008 é outra crise, bem mais curta."
+  },
+  "104": {
+    "b": [
+      "1776",
+      "1861",
+      "1945"
+    ],
+    "k": [
+      "1920",
+      "1933",
+      "2008"
+    ],
+    "t": [
+      "1928",
+      "1930",
+      "The stock market crash of 1987"
+    ],
+    "pt": "A Grande Depressão começou com a quebra da Bolsa de 1929 (o Great Crash) — 1928 e 1930 são os anos vizinhos, e a quebra de 1987 foi outra crise, sem depressão."
+  },
+  "105": {
+    "b": [
+      "George Washington",
+      "Abraham Lincoln",
+      "Thomas Jefferson"
+    ],
+    "k": [
+      "Harry Truman",
+      "Dwight Eisenhower",
+      "Woodrow Wilson"
+    ],
+    "t": [
+      "Theodore Roosevelt",
+      "Herbert Hoover",
+      "Eleanor Roosevelt"
+    ],
+    "pt": "Franklin Roosevelt foi presidente durante a Grande Depressão e quase toda a Segunda Guerra — Theodore Roosevelt foi presidente bem antes (1901–1909) e Hoover era presidente quando a Depressão começou."
+  },
+  "106": {
+    "b": [
+      "Because Germany attacked U.S. civilian ships",
+      "To stop the spread of communism",
+      "To free the slaves"
+    ],
+    "k": [
+      "Because Germany invaded Poland",
+      "Because Italy invaded Ethiopia",
+      "Because the Soviet Union invaded Finland"
+    ],
+    "t": [
+      "Because Germany attacked Pearl Harbor",
+      "To support the Axis Powers (Germany, Italy, and Japan)",
+      "To oppose the Allied Powers (England, France, and Russia)"
+    ],
+    "pt": "Os EUA entraram na Segunda Guerra depois que o Japão bombardeou Pearl Harbor — foi o Japão, não a Alemanha, e os EUA apoiaram os Aliados contra o Eixo."
+  },
+  "107": {
+    "b": [
+      "First president of the United States",
+      "Wrote the Declaration of Independence",
+      "Freed the slaves"
+    ],
+    "k": [
+      "General of the Continental Army",
+      "President during the Civil War",
+      "President during World War I"
+    ],
+    "t": [
+      "35th president of the United States",
+      "General during World War I",
+      "Signed the Federal-Aid Highway Act of 1955"
+    ],
+    "pt": "Eisenhower foi general na Segunda Guerra, 34º presidente e criou o sistema de rodovias interestaduais em 1956 — o 35º presidente foi Kennedy, e ele não foi general na Primeira Guerra."
+  },
+  "108": {
+    "b": [
+      "Germany",
+      "Japan",
+      "Great Britain"
+    ],
+    "k": [
+      "North Korea",
+      "Cuba",
+      "Vietnam"
+    ],
+    "t": [
+      "Communist China",
+      "The Warsaw Pact",
+      "East Germany"
+    ],
+    "pt": "O grande rival na Guerra Fria era a União Soviética (URSS) — China, Cuba e Coreia do Norte eram comunistas, mas o rival principal era Moscou, e o Pacto de Varsóvia era só a aliança liderada por ela."
+  },
+  "109": {
+    "b": [
+      "Slavery",
+      "High taxes from Britain",
+      "The spread of monarchy"
+    ],
+    "k": [
+      "The spread of fascism",
+      "Terrorism",
+      "An invasion by Japan"
+    ],
+    "t": [
+      "The spread of socialism",
+      "Nuclear power plants",
+      "A nuclear war with China"
+    ],
+    "pt": "Na Guerra Fria a preocupação era o comunismo e a guerra nuclear — socialismo não é a mesma coisa que comunismo, e energia nuclear não é guerra nuclear."
+  },
+  "110": {
+    "b": [
+      "To force the Iraqi military from Kuwait",
+      "Because Japan attacked Pearl Harbor",
+      "To free the slaves"
+    ],
+    "k": [
+      "Because Germany attacked U.S. civilian ships",
+      "To support the Allied Powers (England, France, Italy, and Russia)",
+      "Because terrorists attacked the United States on September 11, 2001"
+    ],
+    "t": [
+      "To stop the spread of communism in Vietnam",
+      "To support the spread of communism",
+      "To stop the spread of fascism"
+    ],
+    "pt": "Os EUA entraram na Guerra da Coreia para conter o comunismo — a mesma frase vale para o Vietnã, então a pegadinha é trocar o país: Coreia aqui, Vietnã na pergunta 111."
+  },
+  "111": {
+    "b": [
+      "Because Germany attacked U.S. civilian ships",
+      "To force the Iraqi military from Kuwait",
+      "Because terrorists attacked the World Trade Center"
+    ],
+    "k": [
+      "Because North Korea invaded South Korea",
+      "To support the Allied Powers in World War II",
+      "Because Japan attacked Pearl Harbor"
+    ],
+    "t": [
+      "To stop the spread of communism in Korea",
+      "To stop the spread of communism in China",
+      "To support the spread of communism"
+    ],
+    "pt": "Os EUA entraram na Guerra do Vietnã para conter o comunismo — igual à Coreia na pergunta 110; a diferença é só o país, e a Coreia do Norte invadindo o Sul foi a causa da Guerra da Coreia, não do Vietnã."
+  },
+  "112": {
+    "b": [
+      "Fought to end slavery in the 1800s",
+      "Won independence from Britain",
+      "Built the Interstate Highway System"
+    ],
+    "k": [
+      "Fought for women's right to vote",
+      "Fought for workers' right to unionize",
+      "Fought to end the Vietnam War"
+    ],
+    "t": [
+      "Fought to end racial discrimination in the South only",
+      "Ended racial discrimination completely in 1964",
+      "Fought to give African Americans the right to vote in 1920"
+    ],
+    "pt": "O movimento dos direitos civis lutou para acabar com a discriminação racial — não só no Sul nem só nas escolas, e o voto feminino foi outra luta, conquistada em 1920."
+  },
+  "113": {
+    "b": [
+      "First president of the United States",
+      "Wrote the Declaration of Independence",
+      "Freed the slaves (Emancipation Proclamation)"
+    ],
+    "k": [
+      "Was the first African American President",
+      "Led the women's suffrage movement",
+      "Wrote the Emancipation Proclamation"
+    ],
+    "t": [
+      "Delivered the Gettysburg Address",
+      "Won the Nobel Peace Prize for ending the Vietnam War",
+      "Fought for civil rights for African Americans only"
+    ],
+    "pt": "Martin Luther King Jr. lutou pelos direitos civis e pela igualdade de todos os americanos — o Discurso de Gettysburg é de Lincoln, e o Nobel da Paz dele foi em 1964, não por acabar com a Guerra do Vietnã."
+  },
+  "114": {
+    "b": [
+      "To stop the spread of communism",
+      "Because Japan attacked Pearl Harbor",
+      "To free the slaves"
+    ],
+    "k": [
+      "Because terrorists attacked the United States on September 11, 2001",
+      "To stop the spread of communism in Vietnam",
+      "Because Iraq invaded Saudi Arabia"
+    ],
+    "t": [
+      "To force the Iraqi military from Saudi Arabia",
+      "To remove Saddam Hussein from power in Iraq",
+      "To force the Kuwaiti military from Iraq"
+    ],
+    "pt": "Na Guerra do Golfo os EUA entraram para tirar o exército iraquiano do Kuwait — tirar Saddam Hussein do poder foi a Guerra do Iraque de 2003, e a Arábia Saudita era aliada, não o país invadido."
+  },
+  "115": {
+    "b": [
+      "Japan attacked Pearl Harbor",
+      "The United States landed on the moon",
+      "The Civil War began"
+    ],
+    "k": [
+      "Terrorists attacked Pearl Harbor",
+      "Japan attacked the World Trade Center",
+      "The United States entered World War II"
+    ],
+    "t": [
+      "Terrorists took over two planes and crashed them into the Pentagon in Arlington, Virginia",
+      "Terrorists took over a plane and crashed it into the World Trade Center in Washington, D.C.",
+      "Terrorists attacked the United States on September 11, 2011"
+    ],
+    "pt": "No 11 de setembro de 2001 terroristas derrubaram dois aviões no World Trade Center em Nova York, um no Pentágono e um caiu na Pensilvânia — a pegadinha é trocar os alvos de lugar e o ano (2011)."
+  },
+  "116": {
+    "b": [
+      "World War II",
+      "The Civil War",
+      "The Korean War"
+    ],
+    "k": [
+      "The Persian Gulf War",
+      "The Vietnam War",
+      "World War I"
+    ],
+    "t": [
+      "The Iraq War of 1991",
+      "The War in Afghanistan that started in 1999",
+      "Operation Desert Storm"
+    ],
+    "pt": "Depois do 11 de setembro vieram a Guerra ao Terror, a Guerra no Afeganistão e a Guerra no Iraque — a Guerra do Golfo e a Operação Tempestade no Deserto foram em 1991, dez anos antes."
+  },
+  "117": {
+    "b": [
+      "Maya",
+      "Aztec",
+      "Inca"
+    ],
+    "k": [
+      "Maori",
+      "Aboriginal Australians",
+      "Zulu"
+    ],
+    "t": [
+      "Sioux City",
+      "Apache Junction",
+      "Cherokee County"
+    ],
+    "pt": "A lista oficial tem 25 tribos (Apache, Cherokee, Navajo, Sioux etc.) — Maia, Asteca e Inca não são tribos dos EUA, e Sioux City, Apache Junction e Cherokee County são cidades/condados com nomes de tribos, não tribos."
+  },
+  "118": {
+    "b": [
+      "The printing press",
+      "The wheel",
+      "Gunpowder"
+    ],
+    "k": [
+      "The steam engine",
+      "Penicillin",
+      "The World Wide Web"
+    ],
+    "t": [
+      "The telephone",
+      "The personal computer",
+      "The iPhone"
+    ],
+    "pt": "A lista oficial só aceita 7 inovações (lâmpada, automóvel, arranha-céus, avião, linha de montagem, ida à Lua e circuito integrado) — telefone, computador e iPhone são inovações americanas de verdade, mas não estão na lista da prova, então não valem aqui."
+  },
+  "119": {
+    "b": [
+      "The White House",
+      "The Capitol Building",
+      "The Supreme Court"
+    ],
+    "k": [
+      "Sacramento, California",
+      "Albany, New York",
+      "Trenton, New Jersey"
+    ],
+    "t": [
+      "Washington State",
+      "New York City",
+      "Philadelphia"
+    ],
+    "pt": "A capital dos EUA é Washington, D.C. — Nova York é só a maior cidade, Filadélfia foi a primeira capital, e o estado de Washington fica do outro lado do país, no noroeste."
+  },
+  "120": {
+    "b": [
+      "Mount Rushmore",
+      "The Grand Canyon",
+      "The White House"
+    ],
+    "k": [
+      "Boston Harbor, Massachusetts",
+      "San Francisco Bay, California",
+      "Baltimore Harbor, Maryland"
+    ],
+    "t": [
+      "Ellis Island",
+      "Governors Island",
+      "Staten Island"
+    ],
+    "pt": "A Estátua da Liberdade fica na Liberty Island, no porto de Nova York — a Ellis Island é a ilha vizinha, onde chegavam os imigrantes, e não é a mesma ilha."
+  },
+  "121": {
+    "b": [
+      "Because the flag was first made in 1776",
+      "Because George Washington ordered the flag",
+      "Because the stripes celebrate the end of the Civil War"
+    ],
+    "k": [
+      "Because there are 50 states",
+      "Because there is one stripe for each president",
+      "Because the stripes represent the three branches of government"
+    ],
+    "t": [
+      "Because there were 12 original colonies",
+      "Because the stripes represent the 13 amendments to the Constitution",
+      "Because there were 13 states that signed the Bill of Rights"
+    ],
+    "pt": "As 13 listras representam as 13 colônias originais — as 50 estrelas é que representam os estados; 12 colônias e 13 emendas são números errados que confundem."
+  },
+  "122": {
+    "b": [
+      "Because George Washington was the first President",
+      "Because the flag has 13 stripes",
+      "Because the stars celebrate the end of the Civil War"
+    ],
+    "k": [
+      "Because there is one star for each original colony",
+      "Because there is one star for each president",
+      "Because there are 50 stripes on the flag"
+    ],
+    "t": [
+      "Because there are 51 states",
+      "Because there is one star for each state and territory",
+      "Because there is one star for each state, plus one for Washington, D.C."
+    ],
+    "pt": "Cada estrela representa um estado, e são 50 estados — os territórios e Washington, D.C. não ganham estrela, por isso 51 é a pegadinha."
+  },
+  "123": {
+    "b": [
+      "The Declaration of Independence",
+      "The U.S. Constitution",
+      "The Emancipation Proclamation"
+    ],
+    "k": [
+      "America the Beautiful",
+      "God Bless America",
+      "My Country, ’Tis of Thee"
+    ],
+    "t": [
+      "The Stars and Stripes Forever",
+      "O Say Can You See",
+      "The Defence of Fort M’Henry"
+    ],
+    "pt": "O hino nacional é “The Star-Spangled Banner” — “The Stars and Stripes Forever” é a marcha oficial, e “O Say Can You See” é só o primeiro verso do hino."
+  },
+  "124": {
+    "b": [
+      "Life, Liberty, and the pursuit of Happiness",
+      "All men are created equal",
+      "Give me liberty, or give me death"
+    ],
+    "k": [
+      "In God We Trust",
+      "Liberty and Justice for All",
+      "Annuit Coeptis"
+    ],
+    "t": [
+      "Out of one, many",
+      "One nation under God",
+      "United we stand, divided we fall"
+    ],
+    "pt": "“E Pluribus Unum” significa “De muitos, um” — ao contrário (“de um, muitos”) é a pegadinha, e “One nation under God” é do Pledge of Allegiance, não do lema."
+  },
+  "125": {
+    "b": [
+      "A holiday to celebrate the first President",
+      "A holiday to celebrate the end of slavery",
+      "A holiday to celebrate the new year"
+    ],
+    "k": [
+      "A holiday to honor soldiers who died in military service",
+      "A holiday to honor people who have served in the military",
+      "A holiday to give thanks for the harvest"
+    ],
+    "t": [
+      "A holiday to celebrate the signing of the Declaration of Independence",
+      "A holiday to celebrate the end of the Revolutionary War",
+      "A holiday to celebrate the signing of the U.S. Constitution"
+    ],
+    "pt": "O Independence Day celebra a independência dos EUA, em 4 de julho de 1776, quando a Declaração foi adotada — a guerra só terminou em 1783 e a Constituição só foi assinada em 1787."
+  },
+  "126": {
+    "b": [
+      "Valentine’s Day, Halloween, and Easter",
+      "St. Patrick’s Day, Valentine’s Day, and Mother’s Day",
+      "April Fools’ Day, Halloween, and Valentine’s Day"
+    ],
+    "k": [
+      "New Year’s Day, Christmas Day, and Flag Day",
+      "Thanksgiving Day, Memorial Day, and Groundhog Day",
+      "Labor Day, Veterans Day, and Arbor Day"
+    ],
+    "t": [
+      "New Year’s Day, Independence Day, and Election Day",
+      "Thanksgiving Day, Christmas Day, and Good Friday",
+      "Memorial Day, Labor Day, and Patriot Day"
+    ],
+    "pt": "Feriados nacionais (federais) são os 11 da lista oficial — Election Day, Good Friday e Patriot Day parecem feriados, mas não são feriados federais; cada trio distrator tem pelo menos um dia que não está na lista."
+  },
+  "127": {
+    "b": [
+      "A holiday to celebrate U.S. independence (from Britain)",
+      "A holiday to give thanks for the harvest",
+      "A holiday to celebrate the birth of Jesus"
+    ],
+    "k": [
+      "A holiday to celebrate the end of a war",
+      "A holiday to honor the first President",
+      "A holiday to remember the founding of the country"
+    ],
+    "t": [
+      "A holiday to honor people in the (U.S.) military",
+      "A holiday to honor soldiers who served and came home alive",
+      "A holiday to honor all people who died in American history"
+    ],
+    "pt": "O Memorial Day homenageia os soldados que morreram no serviço militar — quem serviu e voltou vivo é homenageado no Veterans Day, não neste."
+  },
+  "128": {
+    "b": [
+      "A holiday to celebrate U.S. independence (from Britain)",
+      "A holiday to give thanks for the harvest",
+      "A holiday to celebrate the new year"
+    ],
+    "k": [
+      "A holiday to honor the first President",
+      "A holiday to celebrate the end of slavery",
+      "A holiday to honor workers"
+    ],
+    "t": [
+      "A holiday to honor soldiers who died in military service",
+      "A holiday to honor people who died in the Civil War",
+      "A holiday to honor soldiers who are serving overseas right now"
+    ],
+    "pt": "O Veterans Day homenageia todas as pessoas que serviram nas forças armadas — quem morreu em serviço é homenageado no Memorial Day, não neste."
+  }
+}
