@@ -381,7 +381,7 @@
     "b": [
       "1 year",
       "100 years",
-      "For life"
+      "lifetime"
     ],
     "k": [
       "10 years",
@@ -392,8 +392,7 @@
       "4 years",
       "2 years",
       "8 years"
-    ],
-    "pt": "O mandato de senador é de 6 anos — 2 é o da Câmara, 4 é o do presidente, e 8 é o total de dois mandatos presidenciais."
+    ]
   },
   "23": {
     "b": [
@@ -433,7 +432,7 @@
   },
   "25": {
     "b": [
-      "For life",
+      "lifetime",
       "100 years",
       "5 years"
     ],
@@ -446,8 +445,7 @@
       "6 years",
       "4 years",
       "1 year"
-    ],
-    "pt": "O mandato de deputado é de 2 anos — 6 é o de senador e 4 é o de presidente; é por isso que a Câmara acompanha mais de perto a opinião pública."
+    ]
   },
   "26": {
     "b": [
@@ -632,7 +630,7 @@
   "36": {
     "b": [
       "1 year",
-      "For life",
+      "lifetime",
       "100 years"
     ],
     "k": [
@@ -644,8 +642,7 @@
       "6 years",
       "2 years",
       "8 years"
-    ],
-    "pt": "O mandato presidencial é de 4 anos — 6 é o de senador, 2 é o de deputado, e 8 é o total de dois mandatos."
+    ]
   },
   "37": {
     "b": [
@@ -1389,19 +1386,21 @@
     "b": [
       "George Washington",
       "Abraham Lincoln",
-      "Theodore Roosevelt"
+      "Theodore Roosevelt",
+      "Thomas Jefferson"
     ],
     "k": [
       "Benjamin Franklin",
       "James Madison",
-      "Alexander Hamilton"
+      "Alexander Hamilton",
+      "Thomas Jefferson"
     ],
     "t": [
       "John Hancock",
       "Thomas Paine",
-      "John Adams"
-    ],
-    "pt": "Quem escreveu a Declaração foi Thomas Jefferson — John Hancock foi o primeiro a assinar, Thomas Paine escreveu “Common Sense” e Franklin e Adams estavam no comitê, mas não escreveram o texto."
+      "John Adams",
+      "Thomas Jefferson"
+    ]
   },
   "79": {
     "b": [
@@ -1783,21 +1782,20 @@
   },
   "100": {
     "b": [
-      "The Great Depression",
-      "The Louisiana Purchase",
-      "The Emancipation Proclamation"
+      "World War I",
+      "World War II",
+      "Korean War"
     ],
     "k": [
-      "American Revolution",
-      "Civil War",
-      "War of 1812"
+      "World War I",
+      "Korean War",
+      "Vietnam War"
     ],
     "t": [
-      "Spanish-American War",
-      "War in Afghanistan",
-      "War in Iraq"
-    ],
-    "pt": "As guerras dos anos 1900 na lista são Primeira e Segunda Guerra Mundial, Coreia, Vietnã e Golfo — a Guerra Hispano-Americana foi em 1898 (século XIX) e Afeganistão e Iraque são dos anos 2000, depois do 11 de setembro."
+      "World War II",
+      "Vietnam War",
+      "Persian Gulf War"
+    ]
   },
   "101": {
     "b": [
