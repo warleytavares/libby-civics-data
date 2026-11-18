@@ -363,16 +363,16 @@
     "b": [
       "10",
       "13",
-      "1,000 (1,000)"
+      "1,000"
     ],
     "k": [
-      "200 (200)",
-      "Fifty-two (52)",
-      "535 (535)"
+      "200",
+      "52",
+      "535"
     ],
     "t": [
       "50",
-      "Four hundred thirty-five (435)",
+      "435",
       "102"
     ],
     "pt": "São 100 senadores, 2 por estado × 50 estados — 50 é o número de estados, 435 é o da Câmara, e 535 é o total do Congresso (100 + 435)."
@@ -397,37 +397,37 @@
   },
   "23": {
     "b": [
-      "Ted Cruz (Texas)",
-      "Bernie Sanders (Vermont)",
-      "Elizabeth Warren (Massachusetts)"
+      "Ted Cruz",
+      "Bernie Sanders",
+      "Elizabeth Warren"
     ],
     "k": [
-      "Chuck Schumer (New York)",
-      "Mitch McConnell (Kentucky)",
-      "Amy Klobuchar (Minnesota)"
+      "Chuck Schumer",
+      "Mitch McConnell",
+      "Amy Klobuchar"
     ],
     "t": [
-      "Adam Schiff (California)",
-      "Ruben Gallego (Arizona)",
-      "Lisa Murkowski (Alaska)"
+      "Adam Schiff",
+      "Ruben Gallego",
+      "Lisa Murkowski"
     ],
     "pt": "Cada estado tem 2 senadores — decore os do seu estado e confira em uscis.gov/citizenship/testupdates antes da entrevista; os nomes acima são senadores de outros estados."
   },
   "24": {
     "b": [
       "10",
-      "Twenty-seven (27)",
-      "1,000 (1,000)"
+      "27",
+      "1,000"
     ],
     "k": [
       "50",
-      "300 (300)",
-      "400 (400)"
+      "300",
+      "400"
     ],
     "t": [
       "100",
-      "535 (535)",
-      "538 (538)"
+      "535",
+      "538"
     ],
     "pt": "A Câmara tem 435 membros com voto — 100 é o Senado, 535 é Senado + Câmara juntos, e 538 é o total do Colégio Eleitoral."
   },
@@ -470,7 +470,7 @@
   "27": {
     "b": [
       "100",
-      "Four hundred thirty-five (435)",
+      "435",
       "13"
     ],
     "k": [
@@ -481,7 +481,7 @@
     "t": [
       "1",
       "3",
-      "As many as the state's population allows (As many as the state's population allows)"
+      "As many as the state's population allows"
     ],
     "pt": "Cada estado tem exatamente 2 senadores, grande ou pequeno — o número por população vale para a Câmara, não para o Senado."
   },
@@ -505,19 +505,19 @@
   },
   "29": {
     "b": [
-      "Nancy Pelosi (California)",
-      "Marjorie Taylor Greene (Georgia)",
-      "Alexandria Ocasio-Cortez (New York)"
+      "Nancy Pelosi",
+      "Marjorie Taylor Greene",
+      "Alexandria Ocasio-Cortez"
     ],
     "k": [
-      "Jim Jordan (Ohio)",
-      "Hakeem Jeffries (New York)",
-      "Steve Scalise (Louisiana)"
+      "Jim Jordan",
+      "Hakeem Jeffries",
+      "Steve Scalise"
     ],
     "t": [
-      "Mike Johnson (Louisiana)",
-      "Thomas Massie (Kentucky)",
-      "Ilhan Omar (Minnesota)"
+      "Mike Johnson",
+      "Thomas Massie",
+      "Ilhan Omar"
     ],
     "pt": "Decore o nome do deputado do seu distrito (não do estado inteiro) e confira antes da entrevista; os nomes acima são deputados de outros distritos."
   },
@@ -528,14 +528,14 @@
       "Kamala Harris"
     ],
     "k": [
-      "Nancy Pelosi (former Speaker)",
-      "Tom Emmer (House Majority Whip)",
-      "Jim Jordan (Ohio representative)"
+      "Nancy Pelosi",
+      "Tom Emmer",
+      "Jim Jordan"
     ],
     "t": [
-      "Hakeem Jeffries (House Minority Leader)",
-      "Kevin McCarthy (former Speaker)",
-      "Steve Scalise (House Majority Leader)"
+      "Hakeem Jeffries",
+      "Kevin McCarthy",
+      "Steve Scalise"
     ],
     "pt": "O Speaker é o presidente da Câmara — não confunda com o líder da maioria (Scalise) nem com o líder da minoria (Jeffries); confira o nome atual em uscis.gov/citizenship/testupdates."
   },
@@ -672,14 +672,14 @@
       "The governor of New York"
     ],
     "k": [
-      "Joe Biden (former President)",
-      "Barack Obama (former President)",
-      "George W. Bush (former President)"
+      "Joe Biden",
+      "Barack Obama",
+      "George W. Bush"
     ],
     "t": [
-      "JD Vance (Vice President now)",
-      "Mike Johnson (Speaker of the House)",
-      "Joe Biden (President 2021–2025)"
+      "JD Vance",
+      "Mike Johnson",
+      "Joe Biden"
     ],
     "pt": "Não confunda o presidente com o vice (Vance) nem com o Speaker (Johnson), e ex-presidentes não valem — confira o nome atual em uscis.gov/citizenship/testupdates."
   },
@@ -690,14 +690,14 @@
       "The Chief Justice"
     ],
     "k": [
-      "Kamala Harris (former Vice President)",
-      "Mike Pence (former Vice President)",
-      "Joe Biden (former Vice President)"
+      "Kamala Harris",
+      "Mike Pence",
+      "Joe Biden"
     ],
     "t": [
-      "Marco Rubio (Secretary of State)",
-      "Mike Johnson (Speaker of the House)",
-      "Pete Hegseth (Secretary of War)"
+      "Marco Rubio",
+      "Mike Johnson",
+      "Pete Hegseth"
     ],
     "pt": "O vice atual não é nenhum ex-vice (Harris, Pence, Biden) nem o Speaker — confira o nome atual em uscis.gov/citizenship/testupdates."
   },
@@ -943,11 +943,11 @@
     ],
     "k": [
       "5",
-      "12 (12)",
-      "15 (15)"
+      "12",
+      "15"
     ],
     "t": [
-      "11 (11)",
+      "11",
       "7",
       "8"
     ],
@@ -1014,14 +1014,14 @@
       "The Speaker of the House"
     ],
     "k": [
-      "Samuel Alito (Associate Justice)",
-      "Sonia Sotomayor (Associate Justice)",
-      "Brett Kavanaugh (Associate Justice)"
+      "Samuel Alito",
+      "Sonia Sotomayor",
+      "Brett Kavanaugh"
     ],
     "t": [
-      "William Rehnquist (former Chief Justice, 1986–2005)",
-      "Warren Burger (former Chief Justice, 1969–1986)",
-      "Clarence Thomas (Associate Justice since 1991)"
+      "William Rehnquist",
+      "Warren Burger",
+      "Clarence Thomas"
     ],
     "pt": "O Chief Justice é o presidente da Suprema Corte — não confunda com os outros juízes (Associate Justices) nem com ex-Chief Justices; confira em uscis.gov/citizenship/testupdates."
   },
@@ -1081,19 +1081,19 @@
   },
   "61": {
     "b": [
-      "Gavin Newsom (California)",
-      "Ron DeSantis (Florida)",
-      "Greg Abbott (Texas)"
+      "Gavin Newsom",
+      "Ron DeSantis",
+      "Greg Abbott"
     ],
     "k": [
-      "Kathy Hochul (New York)",
-      "Josh Shapiro (Pennsylvania)",
-      "Maura Healey (Massachusetts)"
+      "Kathy Hochul",
+      "Josh Shapiro",
+      "Maura Healey"
     ],
     "t": [
-      "Wes Moore (Maryland)",
-      "Abigail Spanberger (Virginia)",
-      "Jared Polis (Colorado)"
+      "Wes Moore",
+      "Abigail Spanberger",
+      "Jared Polis"
     ],
     "pt": "Decore o governador do seu estado e confira antes da entrevista; os nomes acima são governadores de outros estados."
   },
@@ -1109,9 +1109,9 @@
       "Miami"
     ],
     "t": [
-      "Albany (New York)",
-      "Harrisburg (Pennsylvania)",
-      "Hartford (Connecticut)"
+      "Albany",
+      "Harrisburg",
+      "Hartford"
     ],
     "pt": "Decore a capital do seu estado — não confunda com a maior cidade do estado (Nova York, Filadélfia e Miami não são capitais) nem com Washington, D.C., que é a capital do país."
   },
@@ -1127,7 +1127,7 @@
       "Only citizens born in the United States can vote"
     ],
     "t": [
-      "Citizens 21 and older (can vote).",
+      "Citizens 21 and older.",
       "You must pay a poll tax to vote.",
       "Only white male citizens can vote."
     ],
@@ -1140,7 +1140,7 @@
       "Only people born in Washington, D.C."
     ],
     "k": [
-      "Permanent residents (green card holders)",
+      "Permanent residents",
       "Anyone living in the United States",
       "Anyone who pays taxes in the United States"
     ],
@@ -1195,12 +1195,12 @@
     ],
     "k": [
       "Obey the laws of the United States and Pay taxes",
-      "Defend the (U.S.) Constitution and Vote",
+      "Defend the Constitution and Vote",
       "Be loyal to the United States and Run for office"
     ],
     "t": [
       "Give up loyalty to other countries and Defend the President",
-      "Serve in the military (if needed) and Obey the President",
+      "Serve in the military and Obey the President",
       "Be loyal to the United States and Give up loyalty to the United States"
     ],
     "pt": "No juramento o novo cidadão promete abrir mão da lealdade a outros países, defender a Constituição, obedecer às leis, servir nas forças armadas e à nação se preciso, e ser leal aos EUA — a pegadinha é trocar “Constituição” e “leis” por “presidente”: a lealdade é à Constituição e ao país, não a uma pessoa."
@@ -1525,7 +1525,7 @@
     "t": [
       "Invented the light bulb",
       "First Secretary of State",
-      "Doubled the size of the United States (Louisiana Purchase)"
+      "Doubled the size of the United States"
     ],
     "pt": "Franklin foi inventor, diplomata, primeiro Postmaster General, ajudou a escrever a Declaração e fundou as primeiras bibliotecas públicas gratuitas — a lâmpada foi Edison, o primeiro Secretário de Estado foi Jefferson e quem dobrou o país foi Jefferson com a Louisiana Purchase."
   },
@@ -1560,7 +1560,7 @@
     ],
     "t": [
       "Father of Our Country",
-      "Fourth president of the United States",
+      "4th president of the United States",
       "President of the Constitutional Convention"
     ],
     "pt": "Jefferson escreveu a Declaração, foi o terceiro presidente, dobrou o tamanho dos EUA com a Louisiana Purchase, foi o primeiro Secretário de Estado e fundou a Universidade da Virgínia — o quarto presidente foi Madison, e o “Pai da Pátria” é Washington."
@@ -1646,7 +1646,7 @@
     "k": [
       "World War I",
       "World War II",
-      "The (Persian) Gulf War"
+      "The Gulf War"
     ],
     "t": [
       "The Korean War",
@@ -1752,12 +1752,12 @@
       "2001"
     ],
     "k": [
-      "1920 (19th Amendment — women)",
-      "1965 (Voting Rights Act)",
-      "1863 (Emancipation Proclamation)"
+      "1920",
+      "1965",
+      "1863"
     ],
     "t": [
-      "1865 (end of the Civil War)",
+      "1865",
       "With the 13th Amendment",
       "With the 14th Amendment"
     ],
@@ -1812,8 +1812,8 @@
     ],
     "t": [
       "Because Germany attacked U.S. military ships",
-      "To support the Central Powers (Germany, Austria-Hungary, the Ottoman Empire, and Bulgaria)",
-      "To oppose the Allied Powers (England, France, Italy, and Russia)"
+      "To support the Central Powers",
+      "To oppose the Allied Powers"
     ],
     "pt": "Os EUA entraram na Primeira Guerra porque a Alemanha atacou navios civis americanos — Pearl Harbor é da Segunda Guerra, e os Aliados eram Inglaterra, França, Itália e Rússia, não as Potências Centrais."
   },
@@ -1902,8 +1902,8 @@
     ],
     "t": [
       "Because Germany attacked Pearl Harbor",
-      "To support the Axis Powers (Germany, Italy, and Japan)",
-      "To oppose the Allied Powers (England, France, and Russia)"
+      "To support the Axis Powers",
+      "To oppose the Allied Powers"
     ],
     "pt": "Os EUA entraram na Segunda Guerra depois que o Japão bombardeou Pearl Harbor — foi o Japão, não a Alemanha, e os EUA apoiaram os Aliados contra o Eixo."
   },
@@ -1969,7 +1969,7 @@
     ],
     "k": [
       "Because Germany attacked U.S. civilian ships",
-      "To support the Allied Powers (England, France, Italy, and Russia)",
+      "To support the Allied Powers",
       "Because terrorists attacked the United States on September 11, 2001"
     ],
     "t": [
@@ -2019,7 +2019,7 @@
     "b": [
       "First president of the United States",
       "Wrote the Declaration of Independence",
-      "Freed the slaves (Emancipation Proclamation)"
+      "Freed the slaves"
     ],
     "k": [
       "Was the first African American President",
@@ -2226,7 +2226,7 @@
     ],
     "t": [
       "Out of one, many",
-      "One nation under God",
+      "1 nation under God",
       "United we stand, divided we fall"
     ],
     "pt": "“E Pluribus Unum” significa “De muitos, um” — ao contrário (“de um, muitos”) é a pegadinha, e “One nation under God” é do Pledge of Allegiance, não do lema."
@@ -2269,7 +2269,7 @@
   },
   "127": {
     "b": [
-      "A holiday to celebrate U.S. independence (from Britain)",
+      "A holiday to celebrate U.S. independence",
       "A holiday to give thanks for the harvest",
       "A holiday to celebrate the birth of Jesus"
     ],
@@ -2279,7 +2279,7 @@
       "A holiday to remember the founding of the country"
     ],
     "t": [
-      "A holiday to honor people in the (U.S.) military",
+      "A holiday to honor people in the military",
       "A holiday to honor soldiers who served and came home alive",
       "A holiday to honor all people who died in American history"
     ],
@@ -2287,7 +2287,7 @@
   },
   "128": {
     "b": [
-      "A holiday to celebrate U.S. independence (from Britain)",
+      "A holiday to celebrate U.S. independence",
       "A holiday to give thanks for the harvest",
       "A holiday to celebrate the new year"
     ],
