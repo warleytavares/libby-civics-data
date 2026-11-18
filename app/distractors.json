@@ -1386,20 +1386,17 @@
     "b": [
       "George Washington",
       "Abraham Lincoln",
-      "Theodore Roosevelt",
-      "Thomas Jefferson"
+      "Theodore Roosevelt"
     ],
     "k": [
       "Benjamin Franklin",
       "James Madison",
-      "Alexander Hamilton",
-      "Thomas Jefferson"
+      "Alexander Hamilton"
     ],
     "t": [
       "John Hancock",
       "Thomas Paine",
-      "John Adams",
-      "Thomas Jefferson"
+      "John Adams"
     ]
   },
   "79": {
@@ -1784,17 +1781,20 @@
     "b": [
       "World War I",
       "World War II",
-      "Korean War"
-    ],
-    "k": [
-      "World War I",
       "Korean War",
       "Vietnam War"
+    ],
+    "k": [
+      "Korean War",
+      "Vietnam War",
+      "Persian Gulf War",
+      "Afghanistan War"
     ],
     "t": [
       "World War II",
       "Vietnam War",
-      "Persian Gulf War"
+      "Afghanistan War",
+      "Iraq War"
     ]
   },
   "101": {

@@ -2107,20 +2107,17 @@ const DIST = {
     "b": [
       "George Washington",
       "Abraham Lincoln",
-      "Theodore Roosevelt",
-      "Thomas Jefferson"
+      "Theodore Roosevelt"
     ],
     "k": [
       "Benjamin Franklin",
       "James Madison",
-      "Alexander Hamilton",
-      "Thomas Jefferson"
+      "Alexander Hamilton"
     ],
     "t": [
       "John Hancock",
       "Thomas Paine",
-      "John Adams",
-      "Thomas Jefferson"
+      "John Adams"
     ]
   },
   "79": {
@@ -2505,17 +2502,20 @@ const DIST = {
     "b": [
       "World War I",
       "World War II",
-      "Korean War"
-    ],
-    "k": [
-      "World War I",
       "Korean War",
       "Vietnam War"
+    ],
+    "k": [
+      "Korean War",
+      "Vietnam War",
+      "Persian Gulf War",
+      "Afghanistan War"
     ],
     "t": [
       "World War II",
       "Vietnam War",
-      "Persian Gulf War"
+      "Afghanistan War",
+      "Iraq War"
     ]
   },
   "101": {
@@ -3667,13 +3667,17 @@ let HARD = false;   /* Challenge Mode always uses the trickiest wrong options */
 const distTier = () => { if (HARD || (R && R.hard)) return "t"; const i = stageIdx(); return i <= 1 ? "b" : i === 2 ? "k" : "t"; };
 const noParen = s => String(s).replace(/\s*\([^)]*\)\s*$/, "").trim();
 const normalizeLabel = s => {
-  let str = noParen(String(s));
+  let str = String(s);
+  // For "Thomas Jefferson" case, check if parenthetical prefix should be kept
+  if (str.startsWith('(') && str.includes(')')) {
+    const closeIdx = str.indexOf(')');
+    str = str.substring(closeIdx + 1).trim();
+  }
+  str = noParen(str).trim();
   const wordMap = {'Twenty-seven': '27', 'Twenty-six': '26', 'Twenty-five': '25', 'Fifty-two': '52', 'Fifty': '50', 'One hundred': '100', 'Four hundred thirty-five': '435', 'Five': '5', 'Three': '3', 'Two': '2', 'One': '1', 'Four': '4', 'Six': '6', 'Seven': '7', 'Eight': '8', 'Nine': '9', 'Ten': '10', 'Thirteen': '13'};
   for (const [word, num] of Object.entries(wordMap)) {
-    if (str === word || str.startsWith(word + ' ')) {
-      str = str.replace(word, num);
-      break;
-    }
+    if (str === word) str = num;
+    else if (str.startsWith(word + ' ')) str = num + str.substring(word.length);
   }
   return str;
 };
