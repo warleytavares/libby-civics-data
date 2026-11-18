@@ -2500,22 +2500,19 @@ const DIST = {
   },
   "100": {
     "b": [
-      "World War I",
       "World War II",
       "Korean War",
       "Vietnam War"
     ],
     "k": [
-      "Korean War",
-      "Vietnam War",
-      "Persian Gulf War",
-      "Afghanistan War"
-    ],
-    "t": [
       "World War II",
       "Vietnam War",
-      "Afghanistan War",
-      "Iraq War"
+      "Persian Gulf War"
+    ],
+    "t": [
+      "Korean War",
+      "Vietnam War",
+      "Afghanistan War"
     ]
   },
   "101": {
@@ -3665,7 +3662,7 @@ const uniq = a => [...new Set(a)];
 /* ---------- curated wrong options: easy while Libby is a baby, trickier as she grows ---------- */
 let HARD = false;   /* Challenge Mode always uses the trickiest wrong options */
 const distTier = () => { if (HARD || (R && R.hard)) return "t"; const i = stageIdx(); return i <= 1 ? "b" : i === 2 ? "k" : "t"; };
-const noParen = s => String(s).replace(/\s*\([^)]*\)\s*$/, "").trim();
+const noParen = s => String(s).replace(/\s*\([^)]*\)\s*/g, "").trim();
 const normalizeLabel = s => {
   let str = String(s);
   // For "Thomas Jefferson" case, check if parenthetical prefix should be kept

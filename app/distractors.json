@@ -1779,22 +1779,19 @@
   },
   "100": {
     "b": [
-      "World War I",
       "World War II",
       "Korean War",
       "Vietnam War"
     ],
     "k": [
-      "Korean War",
-      "Vietnam War",
-      "Persian Gulf War",
-      "Afghanistan War"
-    ],
-    "t": [
       "World War II",
       "Vietnam War",
-      "Afghanistan War",
-      "Iraq War"
+      "Persian Gulf War"
+    ],
+    "t": [
+      "Korean War",
+      "Vietnam War",
+      "Afghanistan War"
     ]
   },
   "101": {
